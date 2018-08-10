@@ -1,0 +1,3314 @@
+# Gettext keys exported by GettextExtractor
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2018-08-07T14:26:14-03:00\n"
+"PO-Revision-Date: 2018-08-09 12:50-0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Project-Id-Version: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: gettext.php:2
+msgid "{{name}} must be an IP address"
+msgstr "{{name}} deve ser um endereço de IP"
+
+#: gettext.php:3
+msgid "{{name}} must be an IP address in the {{range}} range"
+msgstr "{{name}} deve ser um endereço de IP dentro da faixa {{range}}"
+
+#: gettext.php:4
+msgid "{{name}} must not be an IP address"
+msgstr "{{name}} não pode ser um endereço de IP"
+
+#: gettext.php:5
+msgid "{{name}} must not be an IP address in the {{range}} range"
+msgstr "{{name}} não pode ser um endereço de IP dentro da faixa {{range}}"
+
+#: gettext.php:6
+msgid "Each item in {{name}} must be valid"
+msgstr "Cada item em {{name}} deve ser válido"
+
+#: gettext.php:7
+msgid "Each item in {{name}} must not validate"
+msgstr "Cada item em {{name}} não deve ser válido"
+
+#: gettext.php:8
+msgid "{{name}} must be a valid CNH number"
+msgstr "{{name}} deve ser um número CNH válido"
+
+#: gettext.php:9
+msgid "{{name}} must not be a valid CNH number"
+msgstr "{{name}} não pode ser um número CNH válido"
+
+#: gettext.php:10
+msgid "{{name}} must be a valid PESEL"
+msgstr "{{name}} deve ser um PESEL válido"
+
+#: gettext.php:11
+msgid "{{name}} must not be a valid PESEL"
+msgstr "{{name}} não deve ser um PESEL válido"
+
+#: gettext.php:12
+msgid "{{name}} must be in the {{charset}} charset"
+msgstr "{{name}} deve estar no charset {{charset}}"
+
+#: gettext.php:13
+msgid "{{name}} must not be in the {{charset}} charset"
+msgstr "{{name}} não deve estar no charset {{charset}}"
+
+#: gettext.php:14
+msgid "{{name}} must be negative"
+msgstr "{{name}} deve ser negativo"
+
+#: gettext.php:15
+msgid "{{name}} must not be negative"
+msgstr "{{name}} não pode ser negativo"
+
+#: gettext.php:16 gettext.php:738
+msgid "{{name}} must be valid"
+msgstr "{{name}} deve ser válido"
+
+#: gettext.php:17 gettext.php:739
+msgid "{{name}} must not be valid"
+msgstr "{{name}} não pode ser válido"
+
+#: gettext.php:18
+msgid "{{name}} must be an uploaded file"
+msgstr "{{name}} deve ser um arquivo enviado"
+
+#: gettext.php:19
+msgid "{{name}} must not be an uploaded file"
+msgstr "{{name}} não deve ser um arquivo enviado"
+
+#: gettext.php:20
+msgid "{{name}} must be a scalar value"
+msgstr "{{name}} deve ser uma grandeza escalar"
+
+#: gettext.php:21
+msgid "{{name}} must not be a scalar value"
+msgstr "{{name}} não pode ser uma grandeza escalar"
+
+#: gettext.php:22
+msgid "{{name}} must be lowercase"
+msgstr "{{name}} deve estar em caixa baixa"
+
+#: gettext.php:23
+msgid "{{name}} must not be lowercase"
+msgstr "{{name}} não pode estar em caixa baixa"
+
+#: gettext.php:24 gettext.php:28 gettext.php:832
+msgid "All of the required rules must pass for {{name}}"
+msgstr "Todas as regras necessárias devem passar para {{name}}"
+
+#: gettext.php:25 gettext.php:29 gettext.php:833
+msgid "These rules must pass for {{name}}"
+msgstr "Estas regras devem passar para {{name}}"
+
+#: gettext.php:26 gettext.php:750 gettext.php:835
+msgid "None of these rules must pass for {{name}}"
+msgstr "Nenhuma destas regras deve passar para {{name}}"
+
+#: gettext.php:27 gettext.php:31 gettext.php:836
+msgid "These rules must not pass for {{name}}"
+msgstr "Estas regras não devem passar para {{name}}"
+
+#: gettext.php:30
+msgid "None of there rules must pass for {{name}}"
+msgstr "Nenhuma destas regras deve passar para {{name}}"
+
+#: gettext.php:32
+msgid "{{name}} must be a valid Credit Card number"
+msgstr "{{name}} deve ser um número de cartão de crédito válido"
+
+#: gettext.php:33
+msgid "{{name}} must be a valid {{brand}} Credit Card number"
+msgstr "{{name}} deve ser um número de cartão de crédito {{brand}}"
+
+#: gettext.php:34
+msgid "{{name}} must not be a valid Credit Card number"
+msgstr "{{name}} não pode ser um número de cartão de crédito válido"
+
+#: gettext.php:35
+msgid "{{name}} must not be a valid {{brand}} Credit Card number"
+msgstr "{{name}} não pode ser um número de cartão de crédito {{brand}}"
+
+#: gettext.php:36
+msgid "{{name}} must be a string"
+msgstr "{{name}} deve ser um texto"
+
+#: gettext.php:37
+msgid "{{name}} must not be string"
+msgstr "{{name}} não pode ser um texto"
+
+#: gettext.php:38
+msgid "{{name}} must be a valid postal code on {{countryCode}}"
+msgstr "{{name}} deve ser um código postal válido para {{countryCode}}"
+
+#: gettext.php:39
+msgid "{{name}} must not be a valid postal code on {{countryCode}}"
+msgstr "{{name}} não pode ser um código postal válido para {{countryCode}}"
+
+#: gettext.php:40
+msgid "{{name}} must contain only digits (0-9)"
+msgstr "{{name}} deve ter apenas dígitos (0-9)"
+
+#: gettext.php:41
+msgid "{{name}} must contain only digits (0-9) and \"{{additionalChars}}\""
+msgstr "{{name}} deve ter apenas dígitos (0-9) e \"{{additionalChars}}\""
+
+#: gettext.php:42
+msgid "{{name}} must not contain digits (0-9)"
+msgstr "{{name}} não pode ter dígitos (0-9)"
+
+#: gettext.php:43
+msgid "{{name}} must not contain digits (0-9) or \"{{additionalChars}}\""
+msgstr "{{name}} não pode ter dígitos (0-9) ou \"{{additionalChars}}\""
+
+#: gettext.php:44
+msgid "{{name}} must be a factor of {{dividend}}"
+msgstr "{{name}} deve ser um fator de {{dividend}}"
+
+#: gettext.php:45
+msgid "{{name}} must not be a factor of {{dividend}}"
+msgstr "{{name}} não pode ser um fator de {{dividend}}"
+
+#: gettext.php:46
+msgid "{{name}} must be an array"
+msgstr "{{name}} deve ser um vetor"
+
+#: gettext.php:47
+msgid "{{name}} must not be an array"
+msgstr "{{name}} não pode ser um vetor"
+
+#: gettext.php:48
+msgid "{{name}} must have {{mimetype}} mimetype"
+msgstr "{{name}} deve ter o tipo MIME {{mimetype}}"
+
+#: gettext.php:49
+msgid "{{name}} must not have {{mimetype}} mimetype"
+msgstr "{{name}} não pode ter o tipo MIME {{mimetype}}"
+
+#: gettext.php:50
+msgid "{{name}} must be a valid JSON string"
+msgstr "{{name}} deve ser uma string JSON válida"
+
+#: gettext.php:51
+msgid "{{name}} must not be a valid JSON string"
+msgstr "{{name}} não pode ser uma string JSON válida"
+
+#: gettext.php:52
+msgid "{{name}} must be valid email"
+msgstr "{{name}} deve ser um e-mail válido"
+
+#: gettext.php:53
+msgid "{{name}} must not be an email"
+msgstr "{{name}} não pode ser um e-mail"
+
+#: gettext.php:54
+msgid "{{name}} must be identical as {{compareTo}}"
+msgstr "{{name}} deve ser idêntico(a) à {{compareTo}}"
+
+#: gettext.php:55
+msgid "{{name}} must not be identical as {{compareTo}}"
+msgstr "{{name}} não pode ser idêntico(a) à {{compareTo}}"
+
+#: gettext.php:56
+msgid "{{name}} must be null"
+msgstr "{{name}} deve ser nulo"
+
+#: gettext.php:57
+msgid "{{name}} must not be null"
+msgstr "{{name}} não pode ser nulo"
+
+#: gettext.php:58
+msgid "{{name}} must be a subdivision code of Hungary"
+msgstr "{{name}} deve ser um código de subdivisão para Hungria"
+
+#: gettext.php:59
+msgid "{{name}} must not be a subdivision code of Hungary"
+msgstr "{{name}} não pode ser um código de subdivisão para Hungria"
+
+#: gettext.php:60
+msgid "{{name}} must be a subdivision code of Malaysia"
+msgstr "{{name}} deve ser um código de subdivisão para Malásia"
+
+#: gettext.php:61
+msgid "{{name}} must not be a subdivision code of Malaysia"
+msgstr "{{name}} não pode ser um código de subdivisão para Malásia"
+
+#: gettext.php:62
+msgid "{{name}} must be a subdivision code of Djibouti"
+msgstr "{{name}} deve ser um código de subdivisão para Djibouti"
+
+#: gettext.php:63
+msgid "{{name}} must not be a subdivision code of Djibouti"
+msgstr "{{name}} não pode ser um código de subdivisão para Djibouti"
+
+#: gettext.php:64
+msgid "{{name}} must be a subdivision code of Ghana"
+msgstr "{{name}} deve ser um código de subdivisão para Gana"
+
+#: gettext.php:65
+msgid "{{name}} must not be a subdivision code of Ghana"
+msgstr "{{name}} não pode ser um código de subdivisão para Gana"
+
+#: gettext.php:66
+msgid "{{name}} must be a subdivision code of Micronesia"
+msgstr "{{name}} deve ser um código de subdivisão para Micronésia"
+
+#: gettext.php:67
+msgid "{{name}} must not be a subdivision code of Micronesia"
+msgstr "{{name}} não pode ser um código de subdivisão para Micronésia"
+
+#: gettext.php:68
+msgid "{{name}} must be a subdivision code of Madagascar"
+msgstr "{{name}} deve ser um código de subdivisão para Madagascar"
+
+#: gettext.php:69
+msgid "{{name}} must not be a subdivision code of Madagascar"
+msgstr "{{name}} não pode ser um código de subdivisão para Madagascar"
+
+#: gettext.php:70
+msgid "{{name}} must be a subdivision code of Saint Helena"
+msgstr "{{name}} deve ser um código de subdivisão para Santa Helena"
+
+#: gettext.php:71
+msgid "{{name}} must not be a subdivision code of Saint Helena"
+msgstr "{{name}} não pode ser um código de subdivisão para Santa Helena"
+
+#: gettext.php:72
+msgid "{{name}} must be a subdivision code of Benin"
+msgstr "{{name}} deve ser um código de subdivisão para Benim"
+
+#: gettext.php:73
+msgid "{{name}} must not be a subdivision code of Benin"
+msgstr "{{name}} não pode ser um código de subdivisão para Benim"
+
+#: gettext.php:74
+msgid "{{name}} must be a subdivision code of Chile"
+msgstr "{{name}} deve ser um código de subdivisão para Chile"
+
+#: gettext.php:75
+msgid "{{name}} must not be a subdivision code of Chile"
+msgstr "{{name}} não pode ser um código de subdivisão para Chile"
+
+#: gettext.php:76
+msgid "{{name}} must be a subdivision code of France"
+msgstr "{{name}} deve ser um código de subdivisão para França"
+
+#: gettext.php:77
+msgid "{{name}} must not be a subdivision code of France"
+msgstr "{{name}} não pode ser um código de subdivisão para França"
+
+#: gettext.php:78
+msgid "{{name}} must be a subdivision code of Tajikistan"
+msgstr "{{name}} deve ser um código de subdivisão para Tajiquistão"
+
+#: gettext.php:79
+msgid "{{name}} must not be a subdivision code of Tajikistan"
+msgstr "{{name}} não pode ser um código de subdivisão para Tajiquistão"
+
+#: gettext.php:80
+msgid "{{name}} must be a subdivision code of Syria"
+msgstr "{{name}} deve ser um código de subdivisão para Síria"
+
+#: gettext.php:81
+msgid "{{name}} must not be a subdivision code of Syria"
+msgstr "{{name}} não pode ser um código de subdivisão para Síria"
+
+#: gettext.php:82
+msgid "{{name}} must be a subdivision code of Tonga"
+msgstr "{{name}} deve ser um código de subdivisão para Tonga"
+
+#: gettext.php:83
+msgid "{{name}} must not be a subdivision code of Tonga"
+msgstr "{{name}} não pode ser um código de subdivisão para Tonga"
+
+#: gettext.php:84
+msgid "{{name}} must be a subdivision code of Belgium"
+msgstr "{{name}} deve ser um código de subdivisão para Bélgica"
+
+#: gettext.php:85
+msgid "{{name}} must not be a subdivision code of Belgium"
+msgstr "{{name}} não pode ser um código de subdivisão para Bélgica"
+
+#: gettext.php:86
+msgid "{{name}} must be a subdivision code of Russia"
+msgstr "{{name}} deve ser um código de subdivisão para Rússia"
+
+#: gettext.php:87
+msgid "{{name}} must not be a subdivision code of Russia"
+msgstr "{{name}} não pode ser um código de subdivisão para Rússia"
+
+#: gettext.php:88
+msgid "{{name}} must be a subdivision code of Suriname"
+msgstr "{{name}} deve ser um código de subdivisão para Suriname"
+
+#: gettext.php:89
+msgid "{{name}} must not be a subdivision code of Suriname"
+msgstr "{{name}} não pode ser um código de subdivisão para Suriname"
+
+#: gettext.php:90
+msgid "{{name}} must be a subdivision code of El Salvador"
+msgstr "{{name}} deve ser um código de subdivisão para El Salvador"
+
+#: gettext.php:91
+msgid "{{name}} must not be a subdivision code of El Salvador"
+msgstr "{{name}} não pode ser um código de subdivisão para El Salvador"
+
+#: gettext.php:92
+msgid "{{name}} must be a subdivision code of Chad"
+msgstr "{{name}} deve ser um código de subdivisão para Chad"
+
+#: gettext.php:93
+msgid "{{name}} must not be a subdivision code of Chad"
+msgstr "{{name}} não pode ser um código de subdivisão para Chad"
+
+#: gettext.php:94
+msgid "{{name}} must be a subdivision code of Lithuania"
+msgstr "{{name}} deve ser um código de subdivisão para Lithuania"
+
+#: gettext.php:95
+msgid "{{name}} must not be a subdivision code of Lithuania"
+msgstr "{{name}} não pode ser um código de subdivisão para Lithuania"
+
+#: gettext.php:96
+msgid "{{name}} must be a subdivision code of Fiji"
+msgstr "{{name}} deve ser um código de subdivisão para Fiji"
+
+#: gettext.php:97
+msgid "{{name}} must not be a subdivision code of Fiji"
+msgstr "{{name}} não pode ser um código de subdivisão para Fiji"
+
+#: gettext.php:98
+msgid "{{name}} must be a subdivision code of Western Sahara"
+msgstr "{{name}} deve ser um código de subdivisão para Western Sahara"
+
+#: gettext.php:99
+msgid "{{name}} must not be a subdivision code of Western Sahara"
+msgstr "{{name}} não pode ser um código de subdivisão para Western Sahara"
+
+#: gettext.php:100
+msgid "{{name}} must be a subdivision code of Portugal"
+msgstr "{{name}} deve ser um código de subdivisão para Portugal"
+
+#: gettext.php:101
+msgid "{{name}} must not be a subdivision code of Portugal"
+msgstr "{{name}} não pode ser um código de subdivisão para Portugal"
+
+#: gettext.php:102
+msgid "{{name}} must be a subdivision code of Kiribati"
+msgstr "{{name}} deve ser um código de subdivisão para Kiribati"
+
+#: gettext.php:103
+msgid "{{name}} must not be a subdivision code of Kiribati"
+msgstr "{{name}} não pode ser um código de subdivisão para Kiribati"
+
+#: gettext.php:104
+msgid "{{name}} must be a subdivision code of French Polynesia"
+msgstr "{{name}} deve ser um código de subdivisão para French Polynesia"
+
+#: gettext.php:105
+msgid "{{name}} must not be a subdivision code of French Polynesia"
+msgstr "{{name}} não pode ser um código de subdivisão para French Polynesia"
+
+#: gettext.php:106
+msgid "{{name}} must be a subdivision code of Guam"
+msgstr "{{name}} deve ser um código de subdivisão para Guam"
+
+#: gettext.php:107
+msgid "{{name}} must not be a subdivision code of Guam"
+msgstr "{{name}} não pode ser um código de subdivisão para Guam"
+
+#: gettext.php:108
+msgid "{{name}} must be a subdivision code of Mali"
+msgstr "{{name}} deve ser um código de subdivisão para Mali"
+
+#: gettext.php:109
+msgid "{{name}} must not be a subdivision code of Mali"
+msgstr "{{name}} não pode ser um código de subdivisão para Mali"
+
+#: gettext.php:110
+msgid "{{name}} must be a subdivision code of Oman"
+msgstr "{{name}} deve ser um código de subdivisão para Oman"
+
+#: gettext.php:111
+msgid "{{name}} must not be a subdivision code of Oman"
+msgstr "{{name}} não pode ser um código de subdivisão para Oman"
+
+#: gettext.php:112
+msgid "{{name}} must be a subdivision code of Zambia"
+msgstr "{{name}} deve ser um código de subdivisão para Zambia"
+
+#: gettext.php:113
+msgid "{{name}} must not be a subdivision code of Zambia"
+msgstr "{{name}} não pode ser um código de subdivisão para Zambia"
+
+#: gettext.php:114
+msgid "{{name}} must be a subdivision code of Guinea"
+msgstr "{{name}} deve ser um código de subdivisão para Guinea"
+
+#: gettext.php:115
+msgid "{{name}} must not be a subdivision code of Guinea"
+msgstr "{{name}} não pode ser um código de subdivisão para Guinea"
+
+#: gettext.php:116
+msgid "{{name}} must be a subdivision code of Monaco"
+msgstr "{{name}} deve ser um código de subdivisão para Monaco"
+
+#: gettext.php:117
+msgid "{{name}} must not be a subdivision code of Monaco"
+msgstr "{{name}} não pode ser um código de subdivisão para Monaco"
+
+#: gettext.php:118
+msgid "{{name}} must be a subdivision code of Latvia"
+msgstr "{{name}} deve ser um código de subdivisão para Latvia"
+
+#: gettext.php:119
+msgid "{{name}} must not be a subdivision code of Latvia"
+msgstr "{{name}} não pode ser um código de subdivisão para Latvia"
+
+#: gettext.php:120
+msgid "{{name}} must be a subdivision code of Afghanistan"
+msgstr "{{name}} deve ser um código de subdivisão para Afghanistan"
+
+#: gettext.php:121
+msgid "{{name}} must not be a subdivision code of Afghanistan"
+msgstr "{{name}} não pode ser um código de subdivisão para Afghanistan"
+
+#: gettext.php:122
+msgid "{{name}} must be a subdivision code of Svalbard and Jan Mayen"
+msgstr "{{name}} deve ser um código de subdivisão para Svalbard and Jan Mayen"
+
+#: gettext.php:123
+msgid "{{name}} must not be a subdivision code of Svalbard and Jan Mayen"
+msgstr "{{name}} não pode ser um código de subdivisão para Svalbard and Jan Mayen"
+
+#: gettext.php:124
+msgid "{{name}} must be a subdivision code of Kosovo"
+msgstr "{{name}} deve ser um código de subdivisão para Kosovo"
+
+#: gettext.php:125
+msgid "{{name}} must not be a subdivision code of Kosovo"
+msgstr "{{name}} não pode ser um código de subdivisão para Kosovo"
+
+#: gettext.php:126
+msgid "{{name}} must be a subdivision code of Tuvalu"
+msgstr "{{name}} deve ser um código de subdivisão para Tuvalu"
+
+#: gettext.php:127
+msgid "{{name}} must not be a subdivision code of Tuvalu"
+msgstr "{{name}} não pode ser um código de subdivisão para Tuvalu"
+
+#: gettext.php:128
+msgid "{{name}} must be a subdivision code of Denmark"
+msgstr "{{name}} deve ser um código de subdivisão para Denmark"
+
+#: gettext.php:129
+msgid "{{name}} must not be a subdivision code of Denmark"
+msgstr "{{name}} não pode ser um código de subdivisão para Denmark"
+
+#: gettext.php:130
+msgid "{{name}} must be a subdivision code of Belarus"
+msgstr "{{name}} deve ser um código de subdivisão para Belarus"
+
+#: gettext.php:131
+msgid "{{name}} must not be a subdivision code of Belarus"
+msgstr "{{name}} não pode ser um código de subdivisão para Belarus"
+
+#: gettext.php:132
+msgid "{{name}} must be a subdivision code of Angola"
+msgstr "{{name}} deve ser um código de subdivisão para Angola"
+
+#: gettext.php:133
+msgid "{{name}} must not be a subdivision code of Angola"
+msgstr "{{name}} não pode ser um código de subdivisão para Angola"
+
+#: gettext.php:134
+msgid "{{name}} must be a subdivision code of Spain"
+msgstr "{{name}} deve ser um código de subdivisão para Spain"
+
+#: gettext.php:135
+msgid "{{name}} must not be a subdivision code of Spain"
+msgstr "{{name}} não pode ser um código de subdivisão para Spain"
+
+#: gettext.php:136
+msgid "{{name}} must be a subdivision code of Kenya"
+msgstr "{{name}} deve ser um código de subdivisão para Kenya"
+
+#: gettext.php:137
+msgid "{{name}} must not be a subdivision code of Kenya"
+msgstr "{{name}} não pode ser um código de subdivisão para Kenya"
+
+#: gettext.php:138
+msgid "{{name}} must be a subdivision code of Laos"
+msgstr "{{name}} deve ser um código de subdivisão para Laos"
+
+#: gettext.php:139
+msgid "{{name}} must not be a subdivision code of Laos"
+msgstr "{{name}} não pode ser um código de subdivisão para Laos"
+
+#: gettext.php:140
+msgid "{{name}} must be a subdivision code of Qatar"
+msgstr "{{name}} deve ser um código de subdivisão para Qatar"
+
+#: gettext.php:141
+msgid "{{name}} must not be a subdivision code of Qatar"
+msgstr "{{name}} não pode ser um código de subdivisão para Qatar"
+
+#: gettext.php:142
+msgid "{{name}} must be a subdivision code of Isle of Man"
+msgstr "{{name}} deve ser um código de subdivisão para Isle of Man"
+
+#: gettext.php:143
+msgid "{{name}} must not be a subdivision code of Isle of Man"
+msgstr "{{name}} não pode ser um código de subdivisão para Isle of Man"
+
+#: gettext.php:144
+msgid "{{name}} must be a subdivision code of Lesotho"
+msgstr "{{name}} deve ser um código de subdivisão para Lesotho"
+
+#: gettext.php:145
+msgid "{{name}} must not be a subdivision code of Lesotho"
+msgstr "{{name}} não pode ser um código de subdivisão para Lesotho"
+
+#: gettext.php:146
+msgid "{{name}} must be a subdivision code of Equatorial Guinea"
+msgstr "{{name}} deve ser um código de subdivisão para Equatorial Guinea"
+
+#: gettext.php:147
+msgid "{{name}} must not be a subdivision code of Equatorial Guinea"
+msgstr "{{name}} não pode ser um código de subdivisão para Equatorial Guinea"
+
+#: gettext.php:148
+msgid "{{name}} must be a subdivision code of Germany"
+msgstr "{{name}} deve ser um código de subdivisão para Germany"
+
+#: gettext.php:149
+msgid "{{name}} must not be a subdivision code of Germany"
+msgstr "{{name}} não pode ser um código de subdivisão para Germany"
+
+#: gettext.php:150
+msgid "{{name}} must be a subdivision code of Turks and Caicos Islands"
+msgstr "{{name}} deve ser um código de subdivisão para Turks and Caicos Islands"
+
+#: gettext.php:151
+msgid "{{name}} must not be a subdivision code of Turks and Caicos Islands"
+msgstr "{{name}} não pode ser um código de subdivisão para Turks and Caicos Islands"
+
+#: gettext.php:152
+msgid "{{name}} must be a subdivision code of Iran"
+msgstr "{{name}} deve ser um código de subdivisão para Iran"
+
+#: gettext.php:153
+msgid "{{name}} must not be a subdivision code of Iran"
+msgstr "{{name}} não pode ser um código de subdivisão para Iran"
+
+#: gettext.php:154
+msgid "{{name}} must be a subdivision code of Poland"
+msgstr "{{name}} deve ser um código de subdivisão para Poland"
+
+#: gettext.php:155
+msgid "{{name}} must not be a subdivision code of Poland"
+msgstr "{{name}} não pode ser um código de subdivisão para Poland"
+
+#: gettext.php:156
+msgid "{{name}} must be a subdivision code of Philippines"
+msgstr "{{name}} deve ser um código de subdivisão para Philippines"
+
+#: gettext.php:157
+msgid "{{name}} must not be a subdivision code of Philippines"
+msgstr "{{name}} não pode ser um código de subdivisão para Philippines"
+
+#: gettext.php:158
+msgid "{{name}} must be a subdivision code of Senegal"
+msgstr "{{name}} deve ser um código de subdivisão para Senegal"
+
+#: gettext.php:159
+msgid "{{name}} must not be a subdivision code of Senegal"
+msgstr "{{name}} não pode ser um código de subdivisão para Senegal"
+
+#: gettext.php:160
+msgid "{{name}} must be a subdivision code of South Africa"
+msgstr "{{name}} deve ser um código de subdivisão para South Africa"
+
+#: gettext.php:161
+msgid "{{name}} must not be a subdivision code of South Africa"
+msgstr "{{name}} não pode ser um código de subdivisão para South Africa"
+
+#: gettext.php:162
+msgid "{{name}} must be a subdivision code of Italy"
+msgstr "{{name}} deve ser um código de subdivisão para Italy"
+
+#: gettext.php:163
+msgid "{{name}} must not be a subdivision code of Italy"
+msgstr "{{name}} não pode ser um código de subdivisão para Italy"
+
+#: gettext.php:164
+msgid "{{name}} must be a subdivision code of Ireland"
+msgstr "{{name}} deve ser um código de subdivisão para Ireland"
+
+#: gettext.php:165
+msgid "{{name}} must not be a subdivision code of Ireland"
+msgstr "{{name}} não pode ser um código de subdivisão para Ireland"
+
+#: gettext.php:166
+msgid "{{name}} must be a subdivision code of Nigeria"
+msgstr "{{name}} deve ser um código de subdivisão para Nigeria"
+
+#: gettext.php:167
+msgid "{{name}} must not be a subdivision code of Nigeria"
+msgstr "{{name}} não pode ser um código de subdivisão para Nigeria"
+
+#: gettext.php:168
+msgid "{{name}} must be a subdivision code of Swaziland"
+msgstr "{{name}} deve ser um código de subdivisão para Swaziland"
+
+#: gettext.php:169
+msgid "{{name}} must not be a subdivision code of Swaziland"
+msgstr "{{name}} não pode ser um código de subdivisão para Swaziland"
+
+#: gettext.php:170
+msgid "{{name}} must be a subdivision code of Jersey"
+msgstr "{{name}} deve ser um código de subdivisão para Jersey"
+
+#: gettext.php:171
+msgid "{{name}} must not be a subdivision code of Jersey"
+msgstr "{{name}} não pode ser um código de subdivisão para Jersey"
+
+#: gettext.php:172
+msgid "{{name}} must be a subdivision code of Finland"
+msgstr "{{name}} deve ser um código de subdivisão para Finland"
+
+#: gettext.php:173
+msgid "{{name}} must not be a subdivision code of Finland"
+msgstr "{{name}} não pode ser um código de subdivisão para Finland"
+
+#: gettext.php:174
+msgid "{{name}} must be a subdivision code of Singapore"
+msgstr "{{name}} deve ser um código de subdivisão para Singapore"
+
+#: gettext.php:175
+msgid "{{name}} must not be a subdivision code of Singapore"
+msgstr "{{name}} não pode ser um código de subdivisão para Singapore"
+
+#: gettext.php:176
+msgid "{{name}} must be a subdivision code of Pakistan"
+msgstr "{{name}} deve ser um código de subdivisão para Pakistan"
+
+#: gettext.php:177
+msgid "{{name}} must not be a subdivision code of Pakistan"
+msgstr "{{name}} não pode ser um código de subdivisão para Pakistan"
+
+#: gettext.php:178
+msgid "{{name}} must be a subdivision code of Northern Mariana Islands"
+msgstr "{{name}} deve ser um código de subdivisão para Northern Mariana Islands"
+
+#: gettext.php:179
+msgid "{{name}} must not be a subdivision code of Northern Mariana Islands"
+msgstr "{{name}} não pode ser um código de subdivisão para Northern Mariana Islands"
+
+#: gettext.php:180
+msgid "{{name}} must be a subdivision code of Maldives"
+msgstr "{{name}} deve ser um código de subdivisão para Maldives"
+
+#: gettext.php:181
+msgid "{{name}} must not be a subdivision code of Maldives"
+msgstr "{{name}} não pode ser um código de subdivisão para Maldives"
+
+#: gettext.php:182
+msgid "{{name}} must be a subdivision code of Argentina"
+msgstr "{{name}} deve ser um código de subdivisão para Argentina"
+
+#: gettext.php:183
+msgid "{{name}} must not be a subdivision code of Argentina"
+msgstr "{{name}} não pode ser um código de subdivisão para Argentina"
+
+#: gettext.php:184
+msgid "{{name}} must be a subdivision code of Guadeloupe"
+msgstr "{{name}} deve ser um código de subdivisão para Guadeloupe"
+
+#: gettext.php:185
+msgid "{{name}} must not be a subdivision code of Guadeloupe"
+msgstr "{{name}} não pode ser um código de subdivisão para Guadeloupe"
+
+#: gettext.php:186
+msgid "{{name}} must be a subdivision code of Netherlands Antilles"
+msgstr "{{name}} deve ser um código de subdivisão para Netherlands Antilles"
+
+#: gettext.php:187
+msgid "{{name}} must not be a subdivision code of Netherlands Antilles"
+msgstr "{{name}} não pode ser um código de subdivisão para Netherlands Antilles"
+
+#: gettext.php:188
+msgid "{{name}} must be a subdivision code of Bermuda"
+msgstr "{{name}} deve ser um código de subdivisão para Bermuda"
+
+#: gettext.php:189
+msgid "{{name}} must not be a subdivision code of Bermuda"
+msgstr "{{name}} não pode ser um código de subdivisão para Bermuda"
+
+#: gettext.php:190
+msgid "{{name}} must be a subdivision code of Saint Lucia"
+msgstr "{{name}} deve ser um código de subdivisão para Saint Lucia"
+
+#: gettext.php:191
+msgid "{{name}} must not be a subdivision code of Saint Lucia"
+msgstr "{{name}} não pode ser um código de subdivisão para Saint Lucia"
+
+#: gettext.php:192
+msgid "{{name}} must be a subdivision code of Uganda"
+msgstr "{{name}} deve ser um código de subdivisão para Uganda"
+
+#: gettext.php:193
+msgid "{{name}} must not be a subdivision code of Uganda"
+msgstr "{{name}} não pode ser um código de subdivisão para Uganda"
+
+#: gettext.php:194
+msgid "{{name}} must be a subdivision code of Vietnam"
+msgstr "{{name}} deve ser um código de subdivisão para Vietnam"
+
+#: gettext.php:195
+msgid "{{name}} must not be a subdivision code of Vietnam"
+msgstr "{{name}} não pode ser um código de subdivisão para Vietnam"
+
+#: gettext.php:196
+msgid "{{name}} must be a subdivision code of Aruba"
+msgstr "{{name}} deve ser um código de subdivisão para Aruba"
+
+#: gettext.php:197
+msgid "{{name}} must not be a subdivision code of Aruba"
+msgstr "{{name}} não pode ser um código de subdivisão para Aruba"
+
+#: gettext.php:198
+msgid "{{name}} must be a subdivision code of Israel"
+msgstr "{{name}} deve ser um código de subdivisão para Israel"
+
+#: gettext.php:199
+msgid "{{name}} must not be a subdivision code of Israel"
+msgstr "{{name}} não pode ser um código de subdivisão para Israel"
+
+#: gettext.php:200
+msgid "{{name}} must be a subdivision code of Ivory Coast"
+msgstr "{{name}} deve ser um código de subdivisão para Ivory Coast"
+
+#: gettext.php:201
+msgid "{{name}} must not be a subdivision code of Ivory Coast"
+msgstr "{{name}} não pode ser um código de subdivisão para Ivory Coast"
+
+#: gettext.php:202
+msgid "{{name}} must be a subdivision code of Wallis and Futuna"
+msgstr "{{name}} deve ser um código de subdivisão para Wallis and Futuna"
+
+#: gettext.php:203
+msgid "{{name}} must not be a subdivision code of Wallis and Futuna"
+msgstr "{{name}} não pode ser um código de subdivisão para Wallis and Futuna"
+
+#: gettext.php:204
+msgid "{{name}} must be a subdivision code of Brunei"
+msgstr "{{name}} deve ser um código de subdivisão para Brunei"
+
+#: gettext.php:205
+msgid "{{name}} must not be a subdivision code of Brunei"
+msgstr "{{name}} não pode ser um código de subdivisão para Brunei"
+
+#: gettext.php:206
+msgid "{{name}} must be a subdivision code of Bouvet Island"
+msgstr "{{name}} deve ser um código de subdivisão para Bouvet Island"
+
+#: gettext.php:207
+msgid "{{name}} must not be a subdivision code of Bouvet Island"
+msgstr "{{name}} não pode ser um código de subdivisão para Bouvet Island"
+
+#: gettext.php:208
+msgid "{{name}} must be a subdivision code of Armenia"
+msgstr "{{name}} deve ser um código de subdivisão para Armenia"
+
+#: gettext.php:209
+msgid "{{name}} must not be a subdivision code of Armenia"
+msgstr "{{name}} não pode ser um código de subdivisão para Armenia"
+
+#: gettext.php:210
+msgid "{{name}} must be a subdivision code of Andorra"
+msgstr "{{name}} deve ser um código de subdivisão para Andorra"
+
+#: gettext.php:211
+msgid "{{name}} must not be a subdivision code of Andorra"
+msgstr "{{name}} não pode ser um código de subdivisão para Andorra"
+
+#: gettext.php:212
+msgid "{{name}} must be a subdivision code of Cyprus"
+msgstr "{{name}} deve ser um código de subdivisão para Cyprus"
+
+#: gettext.php:213
+msgid "{{name}} must not be a subdivision code of Cyprus"
+msgstr "{{name}} não pode ser um código de subdivisão para Cyprus"
+
+#: gettext.php:214
+msgid "{{name}} must be a subdivision code of Cape Verde"
+msgstr "{{name}} deve ser um código de subdivisão para Cape Verde"
+
+#: gettext.php:215
+msgid "{{name}} must not be a subdivision code of Cape Verde"
+msgstr "{{name}} não pode ser um código de subdivisão para Cape Verde"
+
+#: gettext.php:216
+msgid "{{name}} must be a subdivision code of Slovakia"
+msgstr "{{name}} deve ser um código de subdivisão para Slovakia"
+
+#: gettext.php:217
+msgid "{{name}} must not be a subdivision code of Slovakia"
+msgstr "{{name}} não pode ser um código de subdivisão para Slovakia"
+
+#: gettext.php:218
+msgid "{{name}} must be a subdivision code of Romania"
+msgstr "{{name}} deve ser um código de subdivisão para Romania"
+
+#: gettext.php:219
+msgid "{{name}} must not be a subdivision code of Romania"
+msgstr "{{name}} não pode ser um código de subdivisão para Romania"
+
+#: gettext.php:220
+msgid "{{name}} must be a subdivision code of Bahamas"
+msgstr "{{name}} deve ser um código de subdivisão para Bahamas"
+
+#: gettext.php:221
+msgid "{{name}} must not be a subdivision code of Bahamas"
+msgstr "{{name}} não pode ser um código de subdivisão para Bahamas"
+
+#: gettext.php:222
+msgid "{{name}} must be a subdivision code of South Korea"
+msgstr "{{name}} deve ser um código de subdivisão para South Korea"
+
+#: gettext.php:223
+msgid "{{name}} must not be a subdivision code of South Korea"
+msgstr "{{name}} não pode ser um código de subdivisão para South Korea"
+
+#: gettext.php:224
+msgid "{{name}} must be a subdivision code of São Tomé and Príncipe"
+msgstr "{{name}} deve ser um código de subdivisão para São Tomé and Príncipe"
+
+#: gettext.php:225
+msgid "{{name}} must not be a subdivision code of São Tomé and Príncipe"
+msgstr "{{name}} não pode ser um código de subdivisão para São Tomé and Príncipe"
+
+#: gettext.php:226
+msgid "{{name}} must be a subdivision code of Turkey"
+msgstr "{{name}} deve ser um código de subdivisão para Turkey"
+
+#: gettext.php:227
+msgid "{{name}} must not be a subdivision code of Turkey"
+msgstr "{{name}} não pode ser um código de subdivisão para Turkey"
+
+#: gettext.php:228
+msgid "{{name}} must be a subdivision code of Bangladesh"
+msgstr "{{name}} deve ser um código de subdivisão para Bangladesh"
+
+#: gettext.php:229
+msgid "{{name}} must not be a subdivision code of Bangladesh"
+msgstr "{{name}} não pode ser um código de subdivisão para Bangladesh"
+
+#: gettext.php:230
+msgid "{{name}} must be a subdivision code of Gibraltar"
+msgstr "{{name}} deve ser um código de subdivisão para Gibraltar"
+
+#: gettext.php:231
+msgid "{{name}} must not be a subdivision code of Gibraltar"
+msgstr "{{name}} não pode ser um código de subdivisão para Gibraltar"
+
+#: gettext.php:232
+msgid "{{name}} must be a subdivision code of Papua New Guinea"
+msgstr "{{name}} deve ser um código de subdivisão para Papua New Guinea"
+
+#: gettext.php:233
+msgid "{{name}} must not be a subdivision code of Papua New Guinea"
+msgstr "{{name}} não pode ser um código de subdivisão para Papua New Guinea"
+
+#: gettext.php:234
+msgid "{{name}} must be a subdivision code of Brazil"
+msgstr "{{name}} deve ser uma sigla de estado brasileira"
+
+#: gettext.php:235
+msgid "{{name}} must not be a subdivision code of Brazil"
+msgstr "{{name}} não pode ser uma sigla de estado brasileira"
+
+#: gettext.php:236
+msgid "{{name}} must be a subdivision code of Trinidad and Tobago"
+msgstr "{{name}} deve ser um código de subdivisão para Trinidad and Tobago"
+
+#: gettext.php:237
+msgid "{{name}} must not be a subdivision code of Trinidad and Tobago"
+msgstr "{{name}} não pode ser um código de subdivisão para Trinidad and Tobago"
+
+#: gettext.php:238
+msgid "{{name}} must be a subdivision code of Mozambique"
+msgstr "{{name}} deve ser um código de subdivisão para Mozambique"
+
+#: gettext.php:239
+msgid "{{name}} must not be a subdivision code of Mozambique"
+msgstr "{{name}} não pode ser um código de subdivisão para Mozambique"
+
+#: gettext.php:240
+msgid "{{name}} must be a subdivision code of Comoros"
+msgstr "{{name}} deve ser um código de subdivisão para Comoros"
+
+#: gettext.php:241
+msgid "{{name}} must not be a subdivision code of Comoros"
+msgstr "{{name}} não pode ser um código de subdivisão para Comoros"
+
+#: gettext.php:242
+msgid "{{name}} must be a subdivision code of Cocos [Keeling] Islands"
+msgstr "{{name}} deve ser um código de subdivisão para Cocos [Keeling] Islands"
+
+#: gettext.php:243
+msgid "{{name}} must not be a subdivision code of Cocos [Keeling] Islands"
+msgstr "{{name}} não pode ser um código de subdivisão para Cocos [Keeling] Islands"
+
+#: gettext.php:244
+msgid "{{name}} must be a subdivision code of Cambodia"
+msgstr "{{name}} deve ser um código de subdivisão para Cambodia"
+
+#: gettext.php:245
+msgid "{{name}} must not be a subdivision code of Cambodia"
+msgstr "{{name}} não pode ser um código de subdivisão para Cambodia"
+
+#: gettext.php:246
+msgid "{{name}} must be a subdivision code of Namibia"
+msgstr "{{name}} deve ser um código de subdivisão para Namibia"
+
+#: gettext.php:247
+msgid "{{name}} must not be a subdivision code of Namibia"
+msgstr "{{name}} não pode ser um código de subdivisão para Namibia"
+
+#: gettext.php:248
+msgid "{{name}} must be a subdivision code of Saint Barthélemy"
+msgstr "{{name}} deve ser um código de subdivisão para Saint Barthélemy"
+
+#: gettext.php:249
+msgid "{{name}} must not be a subdivision code of Saint Barthélemy"
+msgstr "{{name}} não pode ser um código de subdivisão para Saint Barthélemy"
+
+#: gettext.php:250
+msgid "{{name}} must be a subdivision code of New Caledonia"
+msgstr "{{name}} deve ser um código de subdivisão para New Caledonia"
+
+#: gettext.php:251
+msgid "{{name}} must not be a subdivision code of New Caledonia"
+msgstr "{{name}} não pode ser um código de subdivisão para New Caledonia"
+
+#: gettext.php:252
+msgid "{{name}} must be a subdivision code of Christmas Island"
+msgstr "{{name}} deve ser um código de subdivisão para Christmas Island"
+
+#: gettext.php:253
+msgid "{{name}} must not be a subdivision code of Christmas Island"
+msgstr "{{name}} não pode ser um código de subdivisão para Christmas Island"
+
+#: gettext.php:254
+msgid "{{name}} must be a subdivision code of British Indian Ocean Territory"
+msgstr "{{name}} deve ser um código de subdivisão para British Indian Ocean Territory"
+
+#: gettext.php:255
+msgid "{{name}} must not be a subdivision code of British Indian Ocean Territory"
+msgstr "{{name}} não pode ser um código de subdivisão para British Indian Ocean Territory"
+
+#: gettext.php:256
+msgid "{{name}} must be a subdivision code of Peru"
+msgstr "{{name}} deve ser um código de subdivisão para Peru"
+
+#: gettext.php:257
+msgid "{{name}} must not be a subdivision code of Peru"
+msgstr "{{name}} não pode ser um código de subdivisão para Peru"
+
+#: gettext.php:258
+msgid "{{name}} must be a subdivision code of Sint Maarten"
+msgstr "{{name}} deve ser um código de subdivisão para Sint Maarten"
+
+#: gettext.php:259
+msgid "{{name}} must not be a subdivision code of Sint Maarten"
+msgstr "{{name}} não pode ser um código de subdivisão para Sint Maarten"
+
+#: gettext.php:260
+msgid "{{name}} must be a subdivision code of Guyana"
+msgstr "{{name}} deve ser um código de subdivisão para Guyana"
+
+#: gettext.php:261
+msgid "{{name}} must not be a subdivision code of Guyana"
+msgstr "{{name}} não pode ser um código de subdivisão para Guyana"
+
+#: gettext.php:262
+msgid "{{name}} must be a subdivision code of Dominican Republic"
+msgstr "{{name}} deve ser um código de subdivisão para Dominican Republic"
+
+#: gettext.php:263
+msgid "{{name}} must not be a subdivision code of Dominican Republic"
+msgstr "{{name}} não pode ser um código de subdivisão para Dominican Republic"
+
+#: gettext.php:264
+msgid "{{name}} must be a subdivision code of Liechtenstein"
+msgstr "{{name}} deve ser um código de subdivisão para Liechtenstein"
+
+#: gettext.php:265
+msgid "{{name}} must not be a subdivision code of Liechtenstein"
+msgstr "{{name}} não pode ser um código de subdivisão para Liechtenstein"
+
+#: gettext.php:266
+msgid "{{name}} must be a subdivision code of Uzbekistan"
+msgstr "{{name}} deve ser um código de subdivisão para Uzbekistan"
+
+#: gettext.php:267
+msgid "{{name}} must not be a subdivision code of Uzbekistan"
+msgstr "{{name}} não pode ser um código de subdivisão para Uzbekistan"
+
+#: gettext.php:268
+msgid "{{name}} must be a subdivision code of Tanzania"
+msgstr "{{name}} deve ser um código de subdivisão para Tanzania"
+
+#: gettext.php:269
+msgid "{{name}} must not be a subdivision code of Tanzania"
+msgstr "{{name}} não pode ser um código de subdivisão para Tanzania"
+
+#: gettext.php:270
+msgid "{{name}} must be a subdivision code of American Samoa"
+msgstr "{{name}} deve ser um código de subdivisão para American Samoa"
+
+#: gettext.php:271
+msgid "{{name}} must not be a subdivision code of American Samoa"
+msgstr "{{name}} não pode ser um código de subdivisão para American Samoa"
+
+#: gettext.php:272
+msgid "{{name}} must be a subdivision code of Bolivia"
+msgstr "{{name}} deve ser um código de subdivisão para Bolivia"
+
+#: gettext.php:273
+msgid "{{name}} must not be a subdivision code of Bolivia"
+msgstr "{{name}} não pode ser um código de subdivisão para Bolivia"
+
+#: gettext.php:274
+msgid "{{name}} must be a subdivision code of Botswana"
+msgstr "{{name}} deve ser um código de subdivisão para Botswana"
+
+#: gettext.php:275
+msgid "{{name}} must not be a subdivision code of Botswana"
+msgstr "{{name}} não pode ser um código de subdivisão para Botswana"
+
+#: gettext.php:276
+msgid "{{name}} must be a subdivision code of Montserrat"
+msgstr "{{name}} deve ser um código de subdivisão para Montserrat"
+
+#: gettext.php:277
+msgid "{{name}} must not be a subdivision code of Montserrat"
+msgstr "{{name}} não pode ser um código de subdivisão para Montserrat"
+
+#: gettext.php:278
+msgid "{{name}} must be a subdivision code of Montenegro"
+msgstr "{{name}} deve ser um código de subdivisão para Montenegro"
+
+#: gettext.php:279
+msgid "{{name}} must not be a subdivision code of Montenegro"
+msgstr "{{name}} não pode ser um código de subdivisão para Montenegro"
+
+#: gettext.php:280
+msgid "{{name}} must be a subdivision code of Guinea-Bissau"
+msgstr "{{name}} deve ser um código de subdivisão para Guinea-Bissau"
+
+#: gettext.php:281
+msgid "{{name}} must not be a subdivision code of Guinea-Bissau"
+msgstr "{{name}} não pode ser um código de subdivisão para Guinea-Bissau"
+
+#: gettext.php:282
+msgid "{{name}} must be a subdivision code of Solomon Islands"
+msgstr "{{name}} deve ser um código de subdivisão para Solomon Islands"
+
+#: gettext.php:283
+msgid "{{name}} must not be a subdivision code of Solomon Islands"
+msgstr "{{name}} não pode ser um código de subdivisão para Solomon Islands"
+
+#: gettext.php:284
+msgid "{{name}} must be a subdivision code of South Georgia and the South Sandwich Islands"
+msgstr "{{name}} deve ser um código de subdivisão para South Georgia and the South Sandwich Islands"
+
+#: gettext.php:285
+msgid "{{name}} must not be a subdivision code of South Georgia and the South Sandwich Islands"
+msgstr "{{name}} não pode ser um código de subdivisão para South Georgia and the South Sandwich Islands"
+
+#: gettext.php:286
+msgid "{{name}} must be a subdivision code of Venezuela"
+msgstr "{{name}} deve ser um código de subdivisão para Venezuela"
+
+#: gettext.php:287
+msgid "{{name}} must not be a subdivision code of Venezuela"
+msgstr "{{name}} não pode ser um código de subdivisão para Venezuela"
+
+#: gettext.php:288
+msgid "{{name}} must be a subdivision code of Estonia"
+msgstr "{{name}} deve ser um código de subdivisão para Estonia"
+
+#: gettext.php:289
+msgid "{{name}} must not be a subdivision code of Estonia"
+msgstr "{{name}} não pode ser um código de subdivisão para Estonia"
+
+#: gettext.php:290
+msgid "{{name}} must be a subdivision code of Grenada"
+msgstr "{{name}} deve ser um código de subdivisão para Grenada"
+
+#: gettext.php:291
+msgid "{{name}} must not be a subdivision code of Grenada"
+msgstr "{{name}} não pode ser um código de subdivisão para Grenada"
+
+#: gettext.php:292
+msgid "{{name}} must be a subdivision code of Mexico"
+msgstr "{{name}} deve ser um código de subdivisão para Mexico"
+
+#: gettext.php:293
+msgid "{{name}} must not be a subdivision code of Mexico"
+msgstr "{{name}} não pode ser um código de subdivisão para Mexico"
+
+#: gettext.php:294
+msgid "{{name}} must be a subdivision code of Pitcairn Islands"
+msgstr "{{name}} deve ser um código de subdivisão para Pitcairn Islands"
+
+#: gettext.php:295
+msgid "{{name}} must not be a subdivision code of Pitcairn Islands"
+msgstr "{{name}} não pode ser um código de subdivisão para Pitcairn Islands"
+
+#: gettext.php:296
+msgid "{{name}} must be a subdivision code of Algeria"
+msgstr "{{name}} deve ser um código de subdivisão para Algeria"
+
+#: gettext.php:297
+msgid "{{name}} must not be a subdivision code of Algeria"
+msgstr "{{name}} não pode ser um código de subdivisão para Algeria"
+
+#: gettext.php:298
+msgid "{{name}} must be a subdivision code of Saint Kitts and Nevis"
+msgstr "{{name}} deve ser um código de subdivisão para Saint Kitts and Nevis"
+
+#: gettext.php:299
+msgid "{{name}} must not be a subdivision code of Saint Kitts and Nevis"
+msgstr "{{name}} não pode ser um código de subdivisão para Saint Kitts and Nevis"
+
+#: gettext.php:300
+msgid "{{name}} must be a subdivision code of Gabon"
+msgstr "{{name}} deve ser um código de subdivisão para Gabon"
+
+#: gettext.php:301
+msgid "{{name}} must not be a subdivision code of Gabon"
+msgstr "{{name}} não pode ser um código de subdivisão para Gabon"
+
+#: gettext.php:302
+msgid "{{name}} must be a subdivision code of Switzerland"
+msgstr "{{name}} deve ser um código de subdivisão para Switzerland"
+
+#: gettext.php:303
+msgid "{{name}} must not be a subdivision code of Switzerland"
+msgstr "{{name}} não pode ser um código de subdivisão para Switzerland"
+
+#: gettext.php:304
+msgid "{{name}} must be a subdivision code of Cook Islands"
+msgstr "{{name}} deve ser um código de subdivisão para Cook Islands"
+
+#: gettext.php:305
+msgid "{{name}} must not be a subdivision code of Cook Islands"
+msgstr "{{name}} não pode ser um código de subdivisão para Cook Islands"
+
+#: gettext.php:306
+msgid "{{name}} must be a subdivision code of Honduras"
+msgstr "{{name}} deve ser um código de subdivisão para Honduras"
+
+#: gettext.php:307
+msgid "{{name}} must not be a subdivision code of Honduras"
+msgstr "{{name}} não pode ser um código de subdivisão para Honduras"
+
+#: gettext.php:308
+msgid "{{name}} must be a subdivision code of Greenland"
+msgstr "{{name}} deve ser um código de subdivisão para Greenland"
+
+#: gettext.php:309
+msgid "{{name}} must not be a subdivision code of Greenland"
+msgstr "{{name}} não pode ser um código de subdivisão para Greenland"
+
+#: gettext.php:310
+msgid "{{name}} must be a subdivision code of Japan"
+msgstr "{{name}} deve ser um código de subdivisão para Japan"
+
+#: gettext.php:311
+msgid "{{name}} must not be a subdivision code of Japan"
+msgstr "{{name}} não pode ser um código de subdivisão para Japan"
+
+#: gettext.php:312
+msgid "{{name}} must be a subdivision code of Libya"
+msgstr "{{name}} deve ser um código de subdivisão para Libya"
+
+#: gettext.php:313
+msgid "{{name}} must not be a subdivision code of Libya"
+msgstr "{{name}} não pode ser um código de subdivisão para Libya"
+
+#: gettext.php:314
+msgid "{{name}} must be a subdivision code of Antigua and Barbuda"
+msgstr "{{name}} deve ser um código de subdivisão para Antigua and Barbuda"
+
+#: gettext.php:315
+msgid "{{name}} must not be a subdivision code of Antigua and Barbuda"
+msgstr "{{name}} não pode ser um código de subdivisão para Antigua and Barbuda"
+
+#: gettext.php:316
+msgid "{{name}} must be a subdivision code of Haiti"
+msgstr "{{name}} deve ser um código de subdivisão para Haiti"
+
+#: gettext.php:317
+msgid "{{name}} must not be a subdivision code of Haiti"
+msgstr "{{name}} não pode ser um código de subdivisão para Haiti"
+
+#: gettext.php:318
+msgid "{{name}} must be a subdivision code of Togo"
+msgstr "{{name}} deve ser um código de subdivisão para Togo"
+
+#: gettext.php:319
+msgid "{{name}} must not be a subdivision code of Togo"
+msgstr "{{name}} não pode ser um código de subdivisão para Togo"
+
+#: gettext.php:320
+msgid "{{name}} must be a subdivision code of Falkland Islands"
+msgstr "{{name}} deve ser um código de subdivisão para Falkland Islands"
+
+#: gettext.php:321
+msgid "{{name}} must not be a subdivision code of Falkland Islands"
+msgstr "{{name}} não pode ser um código de subdivisão para Falkland Islands"
+
+#: gettext.php:322
+msgid "{{name}} must be a subdivision code of United States"
+msgstr "{{name}} deve ser um código de subdivisão para United States"
+
+#: gettext.php:323
+msgid "{{name}} must not be a subdivision code of United States"
+msgstr "{{name}} não pode ser um código de subdivisão para United States"
+
+#: gettext.php:324
+msgid "{{name}} must be a subdivision code of United Kingdom"
+msgstr "{{name}} deve ser um código de subdivisão para United Kingdom"
+
+#: gettext.php:325
+msgid "{{name}} must not be a subdivision code of United Kingdom"
+msgstr "{{name}} não pode ser um código de subdivisão para United Kingdom"
+
+#: gettext.php:326
+msgid "{{name}} must be a subdivision code of Somalia"
+msgstr "{{name}} deve ser um código de subdivisão para Somalia"
+
+#: gettext.php:327
+msgid "{{name}} must not be a subdivision code of Somalia"
+msgstr "{{name}} não pode ser um código de subdivisão para Somalia"
+
+#: gettext.php:328
+msgid "{{name}} must be a subdivision code of Czech Republic"
+msgstr "{{name}} deve ser um código de subdivisão para Czech Republic"
+
+#: gettext.php:329
+msgid "{{name}} must not be a subdivision code of Czech Republic"
+msgstr "{{name}} não pode ser um código de subdivisão para Czech Republic"
+
+#: gettext.php:330
+msgid "{{name}} must be a subdivision code of Niger"
+msgstr "{{name}} deve ser um código de subdivisão para Niger"
+
+#: gettext.php:331
+msgid "{{name}} must not be a subdivision code of Niger"
+msgstr "{{name}} não pode ser um código de subdivisão para Niger"
+
+#: gettext.php:332
+msgid "{{name}} must be a subdivision code of Heard Island and McDonald Islands"
+msgstr "{{name}} deve ser um código de subdivisão para Heard Island and McDonald Islands"
+
+#: gettext.php:333
+msgid "{{name}} must not be a subdivision code of Heard Island and McDonald Islands"
+msgstr "{{name}} não pode ser um código de subdivisão para Heard Island and McDonald Islands"
+
+#: gettext.php:334
+msgid "{{name}} must be a subdivision code of Ukraine"
+msgstr "{{name}} deve ser um código de subdivisão para Ukraine"
+
+#: gettext.php:335
+msgid "{{name}} must not be a subdivision code of Ukraine"
+msgstr "{{name}} não pode ser um código de subdivisão para Ukraine"
+
+#: gettext.php:336
+msgid "{{name}} must be a subdivision code of Azerbaijan"
+msgstr "{{name}} deve ser um código de subdivisão para Azerbaijan"
+
+#: gettext.php:337
+msgid "{{name}} must not be a subdivision code of Azerbaijan"
+msgstr "{{name}} não pode ser um código de subdivisão para Azerbaijan"
+
+#: gettext.php:338
+msgid "{{name}} must be a subdivision code of Bosnia and Herzegovina"
+msgstr "{{name}} deve ser um código de subdivisão para Bosnia and Herzegovina"
+
+#: gettext.php:339
+msgid "{{name}} must not be a subdivision code of Bosnia and Herzegovina"
+msgstr "{{name}} não pode ser um código de subdivisão para Bosnia and Herzegovina"
+
+#: gettext.php:340
+msgid "{{name}} must be a subdivision code of Bhutan"
+msgstr "{{name}} deve ser um código de subdivisão para Bhutan"
+
+#: gettext.php:341
+msgid "{{name}} must not be a subdivision code of Bhutan"
+msgstr "{{name}} não pode ser um código de subdivisão para Bhutan"
+
+#: gettext.php:342
+msgid "{{name}} must be a subdivision code of Burkina Faso"
+msgstr "{{name}} deve ser um código de subdivisão para Burkina Faso"
+
+#: gettext.php:343
+msgid "{{name}} must not be a subdivision code of Burkina Faso"
+msgstr "{{name}} não pode ser um código de subdivisão para Burkina Faso"
+
+#: gettext.php:344
+msgid "{{name}} must be a subdivision code of Jamaica"
+msgstr "{{name}} deve ser um código de subdivisão para Jamaica"
+
+#: gettext.php:345
+msgid "{{name}} must not be a subdivision code of Jamaica"
+msgstr "{{name}} não pode ser um código de subdivisão para Jamaica"
+
+#: gettext.php:346
+msgid "{{name}} must be a subdivision code of Austria"
+msgstr "{{name}} deve ser um código de subdivisão para Austria"
+
+#: gettext.php:347
+msgid "{{name}} must not be a subdivision code of Austria"
+msgstr "{{name}} não pode ser um código de subdivisão para Austria"
+
+#: gettext.php:348
+msgid "{{name}} must be a subdivision code of Sudan"
+msgstr "{{name}} deve ser um código de subdivisão para Sudan"
+
+#: gettext.php:349
+msgid "{{name}} must not be a subdivision code of Sudan"
+msgstr "{{name}} não pode ser um código de subdivisão para Sudan"
+
+#: gettext.php:350
+msgid "{{name}} must be a subdivision code of French Southern Territories"
+msgstr "{{name}} deve ser um código de subdivisão para French Southern Territories"
+
+#: gettext.php:351
+msgid "{{name}} must not be a subdivision code of French Southern Territories"
+msgstr "{{name}} não pode ser um código de subdivisão para French Southern Territories"
+
+#: gettext.php:352
+msgid "{{name}} must be a subdivision code of Panama"
+msgstr "{{name}} deve ser um código de subdivisão para Panama"
+
+#: gettext.php:353
+msgid "{{name}} must not be a subdivision code of Panama"
+msgstr "{{name}} não pode ser um código de subdivisão para Panama"
+
+#: gettext.php:354
+msgid "{{name}} must be a subdivision code of Democratic Republic of the Congo"
+msgstr "{{name}} deve ser um código de subdivisão para Democratic Republic of the Congo"
+
+#: gettext.php:355
+msgid "{{name}} must not be a subdivision code of Democratic Republic of the Congo"
+msgstr "{{name}} não pode ser um código de subdivisão para Democratic Republic of the Congo"
+
+#: gettext.php:356
+msgid "{{name}} must be a subdivision code of U.S. Virgin Islands"
+msgstr "{{name}} deve ser um código de subdivisão para U.S. Virgin Islands"
+
+#: gettext.php:357
+msgid "{{name}} must not be a subdivision code of U.S. Virgin Islands"
+msgstr "{{name}} não pode ser um código de subdivisão para U.S. Virgin Islands"
+
+#: gettext.php:358
+msgid "{{name}} must be a subdivision code of Sierra Leone"
+msgstr "{{name}} deve ser um código de subdivisão para Sierra Leone"
+
+#: gettext.php:359
+msgid "{{name}} must not be a subdivision code of Sierra Leone"
+msgstr "{{name}} não pode ser um código de subdivisão para Sierra Leone"
+
+#: gettext.php:360
+msgid "{{name}} must be a subdivision code of Saint Vincent and the Grenadines"
+msgstr "{{name}} deve ser um código de subdivisão para Saint Vincent and the Grenadines"
+
+#: gettext.php:361
+msgid "{{name}} must not be a subdivision code of Saint Vincent and the Grenadines"
+msgstr "{{name}} não pode ser um código de subdivisão para Saint Vincent and the Grenadines"
+
+#: gettext.php:362
+msgid "{{name}} must be a subdivision code of Ethiopia"
+msgstr "{{name}} deve ser um código de subdivisão para Ethiopia"
+
+#: gettext.php:363
+msgid "{{name}} must not be a subdivision code of Ethiopia"
+msgstr "{{name}} não pode ser um código de subdivisão para Ethiopia"
+
+#: gettext.php:364
+msgid "{{name}} must be a subdivision code of New Zealand"
+msgstr "{{name}} deve ser um código de subdivisão para New Zealand"
+
+#: gettext.php:365
+msgid "{{name}} must not be a subdivision code of New Zealand"
+msgstr "{{name}} não pode ser um código de subdivisão para New Zealand"
+
+#: gettext.php:366
+msgid "{{name}} must be a subdivision code of Greece"
+msgstr "{{name}} deve ser um código de subdivisão para Greece"
+
+#: gettext.php:367
+msgid "{{name}} must not be a subdivision code of Greece"
+msgstr "{{name}} não pode ser um código de subdivisão para Greece"
+
+#: gettext.php:368
+msgid "{{name}} must be a subdivision code of Albania"
+msgstr "{{name}} deve ser um código de subdivisão para Albania"
+
+#: gettext.php:369
+msgid "{{name}} must not be a subdivision code of Albania"
+msgstr "{{name}} não pode ser um código de subdivisão para Albania"
+
+#: gettext.php:370
+msgid "{{name}} must be a subdivision code of Egypt"
+msgstr "{{name}} deve ser um código de subdivisão para Egypt"
+
+#: gettext.php:371
+msgid "{{name}} must not be a subdivision code of Egypt"
+msgstr "{{name}} não pode ser um código de subdivisão para Egypt"
+
+#: gettext.php:372
+msgid "{{name}} must be a subdivision code of Thailand"
+msgstr "{{name}} deve ser um código de subdivisão para Thailand"
+
+#: gettext.php:373
+msgid "{{name}} must not be a subdivision code of Thailand"
+msgstr "{{name}} não pode ser um código de subdivisão para Thailand"
+
+#: gettext.php:374
+msgid "{{name}} must be a subdivision code of Mauritius"
+msgstr "{{name}} deve ser um código de subdivisão para Mauritius"
+
+#: gettext.php:375
+msgid "{{name}} must not be a subdivision code of Mauritius"
+msgstr "{{name}} não pode ser um código de subdivisão para Mauritius"
+
+#: gettext.php:376
+msgid "{{name}} must be a subdivision code of Paraguay"
+msgstr "{{name}} deve ser um código de subdivisão para Paraguay"
+
+#: gettext.php:377
+msgid "{{name}} must not be a subdivision code of Paraguay"
+msgstr "{{name}} não pode ser um código de subdivisão para Paraguay"
+
+#: gettext.php:378
+msgid "{{name}} must be a subdivision code of Mongolia"
+msgstr "{{name}} deve ser um código de subdivisão para Mongolia"
+
+#: gettext.php:379
+msgid "{{name}} must not be a subdivision code of Mongolia"
+msgstr "{{name}} não pode ser um código de subdivisão para Mongolia"
+
+#: gettext.php:380
+msgid "{{name}} must be a subdivision code of Luxembourg"
+msgstr "{{name}} deve ser um código de subdivisão para Luxembourg"
+
+#: gettext.php:381
+msgid "{{name}} must not be a subdivision code of Luxembourg"
+msgstr "{{name}} não pode ser um código de subdivisão para Luxembourg"
+
+#: gettext.php:382
+msgid "{{name}} must be a subdivision code of Antarctica"
+msgstr "{{name}} deve ser um código de subdivisão para Antarctica"
+
+#: gettext.php:383
+msgid "{{name}} must not be a subdivision code of Antarctica"
+msgstr "{{name}} não pode ser um código de subdivisão para Antarctica"
+
+#: gettext.php:384
+msgid "{{name}} must be a subdivision code of Iceland"
+msgstr "{{name}} deve ser um código de subdivisão para Iceland"
+
+#: gettext.php:385
+msgid "{{name}} must not be a subdivision code of Iceland"
+msgstr "{{name}} não pode ser um código de subdivisão para Iceland"
+
+#: gettext.php:386
+msgid "{{name}} must be a subdivision code of Niue"
+msgstr "{{name}} deve ser um código de subdivisão para Niue"
+
+#: gettext.php:387
+msgid "{{name}} must not be a subdivision code of Niue"
+msgstr "{{name}} não pode ser um código de subdivisão para Niue"
+
+#: gettext.php:388
+msgid "{{name}} must be a subdivision code of Lebanon"
+msgstr "{{name}} deve ser um código de subdivisão para Lebanon"
+
+#: gettext.php:389
+msgid "{{name}} must not be a subdivision code of Lebanon"
+msgstr "{{name}} não pode ser um código de subdivisão para Lebanon"
+
+#: gettext.php:390
+msgid "{{name}} must be a subdivision code of Guatemala"
+msgstr "{{name}} deve ser um código de subdivisão para Guatemala"
+
+#: gettext.php:391
+msgid "{{name}} must not be a subdivision code of Guatemala"
+msgstr "{{name}} não pode ser um código de subdivisão para Guatemala"
+
+#: gettext.php:392
+msgid "{{name}} must be a subdivision code of Malta"
+msgstr "{{name}} deve ser um código de subdivisão para Malta"
+
+#: gettext.php:393
+msgid "{{name}} must not be a subdivision code of Malta"
+msgstr "{{name}} não pode ser um código de subdivisão para Malta"
+
+#: gettext.php:394
+msgid "{{name}} must be a subdivision code of Cameroon"
+msgstr "{{name}} deve ser um código de subdivisão para Cameroon"
+
+#: gettext.php:395
+msgid "{{name}} must not be a subdivision code of Cameroon"
+msgstr "{{name}} não pode ser um código de subdivisão para Cameroon"
+
+#: gettext.php:396
+msgid "{{name}} must be a subdivision code of Turkmenistan"
+msgstr "{{name}} deve ser um código de subdivisão para Turkmenistan"
+
+#: gettext.php:397
+msgid "{{name}} must not be a subdivision code of Turkmenistan"
+msgstr "{{name}} não pode ser um código de subdivisão para Turkmenistan"
+
+#: gettext.php:398
+msgid "{{name}} must be a subdivision code of Liberia"
+msgstr "{{name}} deve ser um código de subdivisão para Liberia"
+
+#: gettext.php:399
+msgid "{{name}} must not be a subdivision code of Liberia"
+msgstr "{{name}} não pode ser um código de subdivisão para Liberia"
+
+#: gettext.php:400
+msgid "{{name}} must be a subdivision code of Republic of the Congo"
+msgstr "{{name}} deve ser um código de subdivisão para Republic of the Congo"
+
+#: gettext.php:401
+msgid "{{name}} must not be a subdivision code of Republic of the Congo"
+msgstr "{{name}} não pode ser um código de subdivisão para Republic of the Congo"
+
+#: gettext.php:402
+msgid "{{name}} must be a subdivision code of Norfolk Island"
+msgstr "{{name}} deve ser um código de subdivisão para Norfolk Island"
+
+#: gettext.php:403
+msgid "{{name}} must not be a subdivision code of Norfolk Island"
+msgstr "{{name}} não pode ser um código de subdivisão para Norfolk Island"
+
+#: gettext.php:404
+msgid "{{name}} must be a subdivision code of French Guiana"
+msgstr "{{name}} deve ser um código de subdivisão para French Guiana"
+
+#: gettext.php:405
+msgid "{{name}} must not be a subdivision code of French Guiana"
+msgstr "{{name}} não pode ser um código de subdivisão para French Guiana"
+
+#: gettext.php:406
+msgid "{{name}} must be a subdivision code of Saint Martin"
+msgstr "{{name}} deve ser um código de subdivisão para Saint Martin"
+
+#: gettext.php:407
+msgid "{{name}} must not be a subdivision code of Saint Martin"
+msgstr "{{name}} não pode ser um código de subdivisão para Saint Martin"
+
+#: gettext.php:408
+msgid "{{name}} must be a subdivision code of Uruguay"
+msgstr "{{name}} deve ser um código de subdivisão para Uruguay"
+
+#: gettext.php:409
+msgid "{{name}} must not be a subdivision code of Uruguay"
+msgstr "{{name}} não pode ser um código de subdivisão para Uruguay"
+
+#: gettext.php:410
+msgid "{{name}} must be a subdivision code of Palau"
+msgstr "{{name}} deve ser um código de subdivisão para Palau"
+
+#: gettext.php:411
+msgid "{{name}} must not be a subdivision code of Palau"
+msgstr "{{name}} não pode ser um código de subdivisão para Palau"
+
+#: gettext.php:412
+msgid "{{name}} must be a subdivision code of Ecuador"
+msgstr "{{name}} deve ser um código de subdivisão para Ecuador"
+
+#: gettext.php:413
+msgid "{{name}} must not be a subdivision code of Ecuador"
+msgstr "{{name}} não pode ser um código de subdivisão para Ecuador"
+
+#: gettext.php:414
+msgid "{{name}} must be a subdivision code of Bulgaria"
+msgstr "{{name}} deve ser um código de subdivisão para Bulgaria"
+
+#: gettext.php:415
+msgid "{{name}} must not be a subdivision code of Bulgaria"
+msgstr "{{name}} não pode ser um código de subdivisão para Bulgaria"
+
+#: gettext.php:416
+msgid "{{name}} must be a subdivision code of Vatican City"
+msgstr "{{name}} deve ser um código de subdivisão para Vatican City"
+
+#: gettext.php:417
+msgid "{{name}} must not be a subdivision code of Vatican City"
+msgstr "{{name}} não pode ser um código de subdivisão para Vatican City"
+
+#: gettext.php:418
+msgid "{{name}} must be a subdivision code of Yemen"
+msgstr "{{name}} deve ser um código de subdivisão para Yemen"
+
+#: gettext.php:419
+msgid "{{name}} must not be a subdivision code of Yemen"
+msgstr "{{name}} não pode ser um código de subdivisão para Yemen"
+
+#: gettext.php:420
+msgid "{{name}} must be a subdivision code of Samoa"
+msgstr "{{name}} deve ser um código de subdivisão para Samoa"
+
+#: gettext.php:421
+msgid "{{name}} must not be a subdivision code of Samoa"
+msgstr "{{name}} não pode ser um código de subdivisão para Samoa"
+
+#: gettext.php:422
+msgid "{{name}} must be a subdivision code of British Virgin Islands"
+msgstr "{{name}} deve ser um código de subdivisão para British Virgin Islands"
+
+#: gettext.php:423
+msgid "{{name}} must not be a subdivision code of British Virgin Islands"
+msgstr "{{name}} não pode ser um código de subdivisão para British Virgin Islands"
+
+#: gettext.php:424
+msgid "{{name}} must be a subdivision code of Marshall Islands"
+msgstr "{{name}} deve ser um código de subdivisão para Marshall Islands"
+
+#: gettext.php:425
+msgid "{{name}} must not be a subdivision code of Marshall Islands"
+msgstr "{{name}} não pode ser um código de subdivisão para Marshall Islands"
+
+#: gettext.php:426
+msgid "{{name}} must be a subdivision code of Malawi"
+msgstr "{{name}} deve ser um código de subdivisão para Malawi"
+
+#: gettext.php:427
+msgid "{{name}} must not be a subdivision code of Malawi"
+msgstr "{{name}} não pode ser um código de subdivisão para Malawi"
+
+#: gettext.php:428
+msgid "{{name}} must be a subdivision code of Belize"
+msgstr "{{name}} deve ser um código de subdivisão para Belize"
+
+#: gettext.php:429
+msgid "{{name}} must not be a subdivision code of Belize"
+msgstr "{{name}} não pode ser um código de subdivisão para Belize"
+
+#: gettext.php:430
+msgid "{{name}} must be a subdivision code of Norway"
+msgstr "{{name}} deve ser um código de subdivisão para Norway"
+
+#: gettext.php:431
+msgid "{{name}} must not be a subdivision code of Norway"
+msgstr "{{name}} não pode ser um código de subdivisão para Norway"
+
+#: gettext.php:432
+msgid "{{name}} must be a subdivision code of Georgia"
+msgstr "{{name}} deve ser um código de subdivisão para Georgia"
+
+#: gettext.php:433
+msgid "{{name}} must not be a subdivision code of Georgia"
+msgstr "{{name}} não pode ser um código de subdivisão para Georgia"
+
+#: gettext.php:434
+msgid "{{name}} must be a subdivision code of Iraq"
+msgstr "{{name}} deve ser um código de subdivisão para Iraq"
+
+#: gettext.php:435
+msgid "{{name}} must not be a subdivision code of Iraq"
+msgstr "{{name}} não pode ser um código de subdivisão para Iraq"
+
+#: gettext.php:436
+msgid "{{name}} must be a subdivision code of Barbados"
+msgstr "{{name}} deve ser um código de subdivisão para Barbados"
+
+#: gettext.php:437
+msgid "{{name}} must not be a subdivision code of Barbados"
+msgstr "{{name}} não pode ser um código de subdivisão para Barbados"
+
+#: gettext.php:438
+msgid "{{name}} must be a subdivision code of Sweden"
+msgstr "{{name}} deve ser um código de subdivisão para Sweden"
+
+#: gettext.php:439
+msgid "{{name}} must not be a subdivision code of Sweden"
+msgstr "{{name}} não pode ser um código de subdivisão para Sweden"
+
+#: gettext.php:440
+msgid "{{name}} must be a subdivision code of Myanmar [Burma]"
+msgstr "{{name}} deve ser um código de subdivisão para Myanmar [Burma]"
+
+#: gettext.php:441
+msgid "{{name}} must not be a subdivision code of Myanmar [Burma]"
+msgstr "{{name}} não pode ser um código de subdivisão para Myanmar [Burma]"
+
+#: gettext.php:442
+msgid "{{name}} must be a subdivision code of Cayman Islands"
+msgstr "{{name}} deve ser um código de subdivisão para Cayman Islands"
+
+#: gettext.php:443
+msgid "{{name}} must not be a subdivision code of Cayman Islands"
+msgstr "{{name}} não pode ser um código de subdivisão para Cayman Islands"
+
+#: gettext.php:444
+msgid "{{name}} must be a subdivision code of Seychelles"
+msgstr "{{name}} deve ser um código de subdivisão para Seychelles"
+
+#: gettext.php:445
+msgid "{{name}} must not be a subdivision code of Seychelles"
+msgstr "{{name}} não pode ser um código de subdivisão para Seychelles"
+
+#: gettext.php:446
+msgid "{{name}} must be a subdivision code of Nauru"
+msgstr "{{name}} deve ser um código de subdivisão para Nauru"
+
+#: gettext.php:447
+msgid "{{name}} must not be a subdivision code of Nauru"
+msgstr "{{name}} não pode ser um código de subdivisão para Nauru"
+
+#: gettext.php:448
+msgid "{{name}} must be a subdivision code of United Arab Emirates"
+msgstr "{{name}} deve ser um código de subdivisão para United Arab Emirates"
+
+#: gettext.php:449
+msgid "{{name}} must not be a subdivision code of United Arab Emirates"
+msgstr "{{name}} não pode ser um código de subdivisão para United Arab Emirates"
+
+#: gettext.php:450
+msgid "{{name}} must be a subdivision code of Serbia And Montenegro"
+msgstr "{{name}} deve ser um código de subdivisão para Serbia And Montenegro"
+
+#: gettext.php:451
+msgid "{{name}} must not be a subdivision code of Serbia And Montenegro"
+msgstr "{{name}} não pode ser um código de subdivisão para Serbia And Montenegro"
+
+#: gettext.php:452
+msgid "{{name}} must be a subdivision code of Serbia"
+msgstr "{{name}} deve ser um código de subdivisão para Serbia"
+
+#: gettext.php:453
+msgid "{{name}} must not be a subdivision code of Serbia"
+msgstr "{{name}} não pode ser um código de subdivisão para Serbia"
+
+#: gettext.php:454
+msgid "{{name}} must be a subdivision code of Cuba"
+msgstr "{{name}} deve ser um código de subdivisão para Cuba"
+
+#: gettext.php:455
+msgid "{{name}} must not be a subdivision code of Cuba"
+msgstr "{{name}} não pode ser um código de subdivisão para Cuba"
+
+#: gettext.php:456
+msgid "{{name}} must be a subdivision code of Anguilla"
+msgstr "{{name}} deve ser um código de subdivisão para Anguilla"
+
+#: gettext.php:457
+msgid "{{name}} must not be a subdivision code of Anguilla"
+msgstr "{{name}} não pode ser um código de subdivisão para Anguilla"
+
+#: gettext.php:458
+msgid "{{name}} must be a subdivision code of Moldova"
+msgstr "{{name}} deve ser um código de subdivisão para Moldova"
+
+#: gettext.php:459
+msgid "{{name}} must not be a subdivision code of Moldova"
+msgstr "{{name}} não pode ser um código de subdivisão para Moldova"
+
+#: gettext.php:460
+msgid "{{name}} must be a subdivision code of Colombia"
+msgstr "{{name}} deve ser um código de subdivisão para Colombia"
+
+#: gettext.php:461
+msgid "{{name}} must not be a subdivision code of Colombia"
+msgstr "{{name}} não pode ser um código de subdivisão para Colombia"
+
+#: gettext.php:462
+msgid "{{name}} must be a subdivision code of Åland"
+msgstr "{{name}} deve ser um código de subdivisão para Åland"
+
+#: gettext.php:463
+msgid "{{name}} must not be a subdivision code of Åland"
+msgstr "{{name}} não pode ser um código de subdivisão para Åland"
+
+#: gettext.php:464
+msgid "{{name}} must be a subdivision code of Nepal"
+msgstr "{{name}} deve ser um código de subdivisão para Nepal"
+
+#: gettext.php:465
+msgid "{{name}} must not be a subdivision code of Nepal"
+msgstr "{{name}} não pode ser um código de subdivisão para Nepal"
+
+#: gettext.php:466
+msgid "{{name}} must be a subdivision code of Kuwait"
+msgstr "{{name}} deve ser um código de subdivisão para Kuwait"
+
+#: gettext.php:467
+msgid "{{name}} must not be a subdivision code of Kuwait"
+msgstr "{{name}} não pode ser um código de subdivisão para Kuwait"
+
+#: gettext.php:468
+msgid "{{name}} must be a subdivision code of Kyrgyzstan"
+msgstr "{{name}} deve ser um código de subdivisão para Kyrgyzstan"
+
+#: gettext.php:469
+msgid "{{name}} must not be a subdivision code of Kyrgyzstan"
+msgstr "{{name}} não pode ser um código de subdivisão para Kyrgyzstan"
+
+#: gettext.php:470
+msgid "{{name}} must be a subdivision code of Guernsey"
+msgstr "{{name}} deve ser um código de subdivisão para Guernsey"
+
+#: gettext.php:471
+msgid "{{name}} must not be a subdivision code of Guernsey"
+msgstr "{{name}} não pode ser um código de subdivisão para Guernsey"
+
+#: gettext.php:472
+msgid "{{name}} must be a subdivision code of Eritrea"
+msgstr "{{name}} deve ser um código de subdivisão para Eritrea"
+
+#: gettext.php:473
+msgid "{{name}} must not be a subdivision code of Eritrea"
+msgstr "{{name}} não pode ser um código de subdivisão para Eritrea"
+
+#: gettext.php:474
+msgid "{{name}} must be a subdivision code of Curacao"
+msgstr "{{name}} deve ser um código de subdivisão para Curacao"
+
+#: gettext.php:475
+msgid "{{name}} must not be a subdivision code of Curacao"
+msgstr "{{name}} não pode ser um código de subdivisão para Curacao"
+
+#: gettext.php:476
+msgid "{{name}} must be a subdivision code of Macao"
+msgstr "{{name}} deve ser um código de subdivisão para Macao"
+
+#: gettext.php:477
+msgid "{{name}} must not be a subdivision code of Macao"
+msgstr "{{name}} não pode ser um código de subdivisão para Macao"
+
+#: gettext.php:478
+msgid "{{name}} must be a subdivision code of Macedonia"
+msgstr "{{name}} deve ser um código de subdivisão para Macedonia"
+
+#: gettext.php:479
+msgid "{{name}} must not be a subdivision code of Macedonia"
+msgstr "{{name}} não pode ser um código de subdivisão para Macedonia"
+
+#: gettext.php:480
+msgid "{{name}} must be a subdivision code of Saudi Arabia"
+msgstr "{{name}} deve ser um código de subdivisão para Saudi Arabia"
+
+#: gettext.php:481
+msgid "{{name}} must not be a subdivision code of Saudi Arabia"
+msgstr "{{name}} não pode ser um código de subdivisão para Saudi Arabia"
+
+#: gettext.php:482
+msgid "{{name}} must be a subdivision code of Croatia"
+msgstr "{{name}} deve ser um código de subdivisão para Croatia"
+
+#: gettext.php:483
+msgid "{{name}} must not be a subdivision code of Croatia"
+msgstr "{{name}} não pode ser um código de subdivisão para Croatia"
+
+#: gettext.php:484
+msgid "{{name}} must be a subdivision code of East Timor"
+msgstr "{{name}} deve ser um código de subdivisão para East Timor"
+
+#: gettext.php:485
+msgid "{{name}} must not be a subdivision code of East Timor"
+msgstr "{{name}} não pode ser um código de subdivisão para East Timor"
+
+#: gettext.php:486
+msgid "{{name}} must be a subdivision code of Rwanda"
+msgstr "{{name}} deve ser um código de subdivisão para Rwanda"
+
+#: gettext.php:487
+msgid "{{name}} must not be a subdivision code of Rwanda"
+msgstr "{{name}} não pode ser um código de subdivisão para Rwanda"
+
+#: gettext.php:488
+msgid "{{name}} must be a subdivision code of Netherlands"
+msgstr "{{name}} deve ser um código de subdivisão para Netherlands"
+
+#: gettext.php:489
+msgid "{{name}} must not be a subdivision code of Netherlands"
+msgstr "{{name}} não pode ser um código de subdivisão para Netherlands"
+
+#: gettext.php:490
+msgid "{{name}} must be a subdivision code of Morocco"
+msgstr "{{name}} deve ser um código de subdivisão para Morocco"
+
+#: gettext.php:491
+msgid "{{name}} must not be a subdivision code of Morocco"
+msgstr "{{name}} não pode ser um código de subdivisão para Morocco"
+
+#: gettext.php:492
+msgid "{{name}} must be a subdivision code of Sri Lanka"
+msgstr "{{name}} deve ser um código de subdivisão para Sri Lanka"
+
+#: gettext.php:493
+msgid "{{name}} must not be a subdivision code of Sri Lanka"
+msgstr "{{name}} não pode ser um código de subdivisão para Sri Lanka"
+
+#: gettext.php:494
+msgid "{{name}} must be a subdivision code of Indonesia"
+msgstr "{{name}} deve ser um código de subdivisão para Indonesia"
+
+#: gettext.php:495
+msgid "{{name}} must not be a subdivision code of Indonesia"
+msgstr "{{name}} não pode ser um código de subdivisão para Indonesia"
+
+#: gettext.php:496
+msgid "{{name}} must be a subdivision code of North Korea"
+msgstr "{{name}} deve ser um código de subdivisão para North Korea"
+
+#: gettext.php:497
+msgid "{{name}} must not be a subdivision code of North Korea"
+msgstr "{{name}} não pode ser um código de subdivisão para North Korea"
+
+#: gettext.php:498
+msgid "{{name}} must be a subdivision code of Gambia"
+msgstr "{{name}} deve ser um código de subdivisão para Gambia"
+
+#: gettext.php:499
+msgid "{{name}} must not be a subdivision code of Gambia"
+msgstr "{{name}} não pode ser um código de subdivisão para Gambia"
+
+#: gettext.php:500
+msgid "{{name}} must be a subdivision code of Vanuatu"
+msgstr "{{name}} deve ser um código de subdivisão para Vanuatu"
+
+#: gettext.php:501
+msgid "{{name}} must not be a subdivision code of Vanuatu"
+msgstr "{{name}} não pode ser um código de subdivisão para Vanuatu"
+
+#: gettext.php:502
+msgid "{{name}} must be a subdivision code of Australia"
+msgstr "{{name}} deve ser um código de subdivisão para Australia"
+
+#: gettext.php:503
+msgid "{{name}} must not be a subdivision code of Australia"
+msgstr "{{name}} não pode ser um código de subdivisão para Australia"
+
+#: gettext.php:504
+msgid "{{name}} must be a subdivision code of Palestine"
+msgstr "{{name}} deve ser um código de subdivisão para Palestine"
+
+#: gettext.php:505
+msgid "{{name}} must not be a subdivision code of Palestine"
+msgstr "{{name}} não pode ser um código de subdivisão para Palestine"
+
+#: gettext.php:506
+msgid "{{name}} must be a subdivision code of U.S. Minor Outlying Islands"
+msgstr "{{name}} deve ser um código de subdivisão para U.S. Minor Outlying Islands"
+
+#: gettext.php:507
+msgid "{{name}} must not be a subdivision code of U.S. Minor Outlying Islands"
+msgstr "{{name}} não pode ser um código de subdivisão para U.S. Minor Outlying Islands"
+
+#: gettext.php:508
+msgid "{{name}} must be a subdivision code of Burundi"
+msgstr "{{name}} deve ser um código de subdivisão para Burundi"
+
+#: gettext.php:509
+msgid "{{name}} must not be a subdivision code of Burundi"
+msgstr "{{name}} não pode ser um código de subdivisão para Burundi"
+
+#: gettext.php:510
+msgid "{{name}} must be a subdivision code of Saint Pierre and Miquelon"
+msgstr "{{name}} deve ser um código de subdivisão para Saint Pierre and Miquelon"
+
+#: gettext.php:511
+msgid "{{name}} must not be a subdivision code of Saint Pierre and Miquelon"
+msgstr "{{name}} não pode ser um código de subdivisão para Saint Pierre and Miquelon"
+
+#: gettext.php:512
+msgid "{{name}} must be a subdivision code of Taiwan"
+msgstr "{{name}} deve ser um código de subdivisão para Taiwan"
+
+#: gettext.php:513
+msgid "{{name}} must not be a subdivision code of Taiwan"
+msgstr "{{name}} não pode ser um código de subdivisão para Taiwan"
+
+#: gettext.php:514
+msgid "{{name}} must be a subdivision code of Nicaragua"
+msgstr "{{name}} deve ser um código de subdivisão para Nicaragua"
+
+#: gettext.php:515
+msgid "{{name}} must not be a subdivision code of Nicaragua"
+msgstr "{{name}} não pode ser um código de subdivisão para Nicaragua"
+
+#: gettext.php:516
+msgid "{{name}} must be a subdivision code of Faroe Islands"
+msgstr "{{name}} deve ser um código de subdivisão para Faroe Islands"
+
+#: gettext.php:517
+msgid "{{name}} must not be a subdivision code of Faroe Islands"
+msgstr "{{name}} não pode ser um código de subdivisão para Faroe Islands"
+
+#: gettext.php:518
+msgid "{{name}} must be a subdivision code of Tokelau"
+msgstr "{{name}} deve ser um código de subdivisão para Tokelau"
+
+#: gettext.php:519
+msgid "{{name}} must not be a subdivision code of Tokelau"
+msgstr "{{name}} não pode ser um código de subdivisão para Tokelau"
+
+#: gettext.php:520
+msgid "{{name}} must be a subdivision code of Dominica"
+msgstr "{{name}} deve ser um código de subdivisão para Dominica"
+
+#: gettext.php:521
+msgid "{{name}} must not be a subdivision code of Dominica"
+msgstr "{{name}} não pode ser um código de subdivisão para Dominica"
+
+#: gettext.php:522
+msgid "{{name}} must be a subdivision code of Kazakhstan"
+msgstr "{{name}} deve ser um código de subdivisão para Kazakhstan"
+
+#: gettext.php:523
+msgid "{{name}} must not be a subdivision code of Kazakhstan"
+msgstr "{{name}} não pode ser um código de subdivisão para Kazakhstan"
+
+#: gettext.php:524
+msgid "{{name}} must be a subdivision code of Bahrain"
+msgstr "{{name}} deve ser um código de subdivisão para Bahrain"
+
+#: gettext.php:525
+msgid "{{name}} must not be a subdivision code of Bahrain"
+msgstr "{{name}} não pode ser um código de subdivisão para Bahrain"
+
+#: gettext.php:526
+msgid "{{name}} must be a subdivision code of San Marino"
+msgstr "{{name}} deve ser um código de subdivisão para San Marino"
+
+#: gettext.php:527
+msgid "{{name}} must not be a subdivision code of San Marino"
+msgstr "{{name}} não pode ser um código de subdivisão para San Marino"
+
+#: gettext.php:528
+msgid "{{name}} must be a subdivision code of Hong Kong"
+msgstr "{{name}} deve ser um código de subdivisão para Hong Kong"
+
+#: gettext.php:529
+msgid "{{name}} must not be a subdivision code of Hong Kong"
+msgstr "{{name}} não pode ser um código de subdivisão para Hong Kong"
+
+#: gettext.php:530
+msgid "{{name}} must be a subdivision code of Mauritania"
+msgstr "{{name}} deve ser um código de subdivisão para Mauritania"
+
+#: gettext.php:531
+msgid "{{name}} must not be a subdivision code of Mauritania"
+msgstr "{{name}} não pode ser um código de subdivisão para Mauritania"
+
+#: gettext.php:532
+msgid "{{name}} must be a subdivision code of Réunion"
+msgstr "{{name}} deve ser um código de subdivisão para Réunion"
+
+#: gettext.php:533
+msgid "{{name}} must not be a subdivision code of Réunion"
+msgstr "{{name}} não pode ser um código de subdivisão para Réunion"
+
+#: gettext.php:534
+msgid "{{name}} must be a subdivision code of Costa Rica"
+msgstr "{{name}} deve ser um código de subdivisão para Costa Rica"
+
+#: gettext.php:535
+msgid "{{name}} must not be a subdivision code of Costa Rica"
+msgstr "{{name}} não pode ser um código de subdivisão para Costa Rica"
+
+#: gettext.php:536
+msgid "{{name}} must be a subdivision code of Mayotte"
+msgstr "{{name}} deve ser um código de subdivisão para Mayotte"
+
+#: gettext.php:537
+msgid "{{name}} must not be a subdivision code of Mayotte"
+msgstr "{{name}} não pode ser um código de subdivisão para Mayotte"
+
+#: gettext.php:538
+msgid "{{name}} must be a subdivision code of Central African Republic"
+msgstr "{{name}} deve ser um código de subdivisão para Central African Republic"
+
+#: gettext.php:539
+msgid "{{name}} must not be a subdivision code of Central African Republic"
+msgstr "{{name}} não pode ser um código de subdivisão para Central African Republic"
+
+#: gettext.php:540
+msgid "{{name}} must be a subdivision code of Canada"
+msgstr "{{name}} deve ser um código de subdivisão para Canada"
+
+#: gettext.php:541
+msgid "{{name}} must not be a subdivision code of Canada"
+msgstr "{{name}} não pode ser um código de subdivisão para Canada"
+
+#: gettext.php:542
+msgid "{{name}} must be a subdivision code of China"
+msgstr "{{name}} deve ser um código de subdivisão para China"
+
+#: gettext.php:543
+msgid "{{name}} must not be a subdivision code of China"
+msgstr "{{name}} não pode ser um código de subdivisão para China"
+
+#: gettext.php:544
+msgid "{{name}} must be a subdivision code of Puerto Rico"
+msgstr "{{name}} deve ser um código de subdivisão para Puerto Rico"
+
+#: gettext.php:545
+msgid "{{name}} must not be a subdivision code of Puerto Rico"
+msgstr "{{name}} não pode ser um código de subdivisão para Puerto Rico"
+
+#: gettext.php:546
+msgid "{{name}} must be a subdivision code of South Sudan"
+msgstr "{{name}} deve ser um código de subdivisão para South Sudan"
+
+#: gettext.php:547
+msgid "{{name}} must not be a subdivision code of South Sudan"
+msgstr "{{name}} não pode ser um código de subdivisão para South Sudan"
+
+#: gettext.php:548
+msgid "{{name}} must be a subdivision code of Zimbabwe"
+msgstr "{{name}} deve ser um código de subdivisão para Zimbabwe"
+
+#: gettext.php:549
+msgid "{{name}} must not be a subdivision code of Zimbabwe"
+msgstr "{{name}} não pode ser um código de subdivisão para Zimbabwe"
+
+#: gettext.php:550
+msgid "{{name}} must be a subdivision code of Slovenia"
+msgstr "{{name}} deve ser um código de subdivisão para Slovenia"
+
+#: gettext.php:551
+msgid "{{name}} must not be a subdivision code of Slovenia"
+msgstr "{{name}} não pode ser um código de subdivisão para Slovenia"
+
+#: gettext.php:552
+msgid "{{name}} must be a subdivision code of Jordan"
+msgstr "{{name}} deve ser um código de subdivisão para Jordan"
+
+#: gettext.php:553
+msgid "{{name}} must not be a subdivision code of Jordan"
+msgstr "{{name}} não pode ser um código de subdivisão para Jordan"
+
+#: gettext.php:554
+msgid "{{name}} must be a subdivision code of Bonaire"
+msgstr "{{name}} deve ser um código de subdivisão para Bonaire"
+
+#: gettext.php:555
+msgid "{{name}} must not be a subdivision code of Bonaire"
+msgstr "{{name}} não pode ser um código de subdivisão para Bonaire"
+
+#: gettext.php:556
+msgid "{{name}} must be a subdivision code of Martinique"
+msgstr "{{name}} deve ser um código de subdivisão para Martinique"
+
+#: gettext.php:557
+msgid "{{name}} must not be a subdivision code of Martinique"
+msgstr "{{name}} não pode ser um código de subdivisão para Martinique"
+
+#: gettext.php:558
+msgid "{{name}} must be a subdivision code of India"
+msgstr "{{name}} deve ser um código de subdivisão para India"
+
+#: gettext.php:559
+msgid "{{name}} must not be a subdivision code of India"
+msgstr "{{name}} não pode ser um código de subdivisão para India"
+
+#: gettext.php:560
+msgid "{{name}} must be a subdivision code of Tunisia"
+msgstr "{{name}} deve ser um código de subdivisão para Tunisia"
+
+#: gettext.php:561
+msgid "{{name}} must not be a subdivision code of Tunisia"
+msgstr "{{name}} não pode ser um código de subdivisão para Tunisia"
+
+#: gettext.php:562 gettext.php:674
+msgid "{{name}} is always valid"
+msgstr "{{name}} é sempre válido"
+
+#: gettext.php:563 gettext.php:672
+msgid "{{name}} is always invalid"
+msgstr "{{name}} é sempre inválido"
+
+#: gettext.php:564
+msgid "{{name}} must contain only consonants"
+msgstr "{{name}} deve conter apenas consoantes"
+
+#: gettext.php:565
+msgid "{{name}} must contain only consonants and \"{{additionalChars}}\""
+msgstr "{{name}} deve ter apenas consoantes e \"{{additionalChars}}\""
+
+#: gettext.php:566
+msgid "{{name}} must not contain consonants"
+msgstr "{{name}} não pode ter consoantes"
+
+#: gettext.php:567
+msgid "{{name}} must not contain consonants or \"{{additionalChars}}\""
+msgstr "{{name}} não pode ter consoantes ou \"{{additionalChars}}\""
+
+#: gettext.php:568
+msgid "{{name}} must be a valid perfect square"
+msgstr "{{name}} deve ser um número quadrado perfeito válido"
+
+#: gettext.php:569
+msgid "{{name}} must not be a valid perfect square"
+msgstr "{{name}} não pode ser um número quadrado perfeito válido"
+
+#: gettext.php:570
+msgid "{{name}} must be an instance of {{instanceName}}"
+msgstr "{{name}} deve ser uma instância de {{instanceName}}"
+
+#: gettext.php:571
+msgid "{{name}} must not be an instance of {{instanceName}}"
+msgstr "{{name}} não pode ser uma instância de {{instanceName}}"
+
+#: gettext.php:572
+msgid "The value must not be blank"
+msgstr "O valor não pode ser vazio"
+
+#: gettext.php:573
+msgid "{{name}} must not be blank"
+msgstr "{{name}} não pode ser vazio"
+
+#: gettext.php:574
+msgid "The value must be blank"
+msgstr "O valor deve ser vazio"
+
+#: gettext.php:575
+msgid "{{name}} must be blank"
+msgstr "{{name}} deve ser vazio"
+
+#: gettext.php:576
+msgid "{{name}} must be a BIC"
+msgstr "{{name}} deve ser um BIC"
+
+#: gettext.php:577
+msgid "{{name}} must not be a BIC"
+msgstr "{{name}} não pode ser um BIC"
+
+#: gettext.php:578
+msgid "{{name}} must be a valid top-level domain name"
+msgstr "{{name}} deve ser um top-level domain (TLD)"
+
+#: gettext.php:579
+msgid "{{name}} must not be a valid top-level domain name"
+msgstr "{{name}} não pode ser um top-level domain (TLD)"
+
+#: gettext.php:580
+msgid "{{name}} must be an object"
+msgstr "{{name}} deve ser um objeto"
+
+#: gettext.php:581
+msgid "{{name}} must not be an object"
+msgstr "{{name}} não pode ser um objeto"
+
+#: gettext.php:582
+msgid "{{name}} must be an executable file"
+msgstr "{{name}} deve ser um arquivo executável"
+
+#: gettext.php:583
+msgid "{{name}} must not be an executable file"
+msgstr "{{name}} não pode ser um arquivo executável"
+
+#: gettext.php:584
+msgid "{{name}} must be a valid NFe access key"
+msgstr "{{name}} deve ser uma chave de acesso NFe válida"
+
+#: gettext.php:585
+msgid "{{name}} must not be a valid NFe access key"
+msgstr "{{name}} não pode ser uma chave de acesso NFe válida"
+
+#: gettext.php:586
+msgid "{{name}} must validate against {{regex}}"
+msgstr "{{name}} deve ser válido contra {{regex}}"
+
+#: gettext.php:587
+msgid "{{name}} must not validate against {{regex}}"
+msgstr "{{name}} não pode ser válido contra {{regex}}"
+
+#: gettext.php:588
+msgid "{{name}} must contain only printable characters"
+msgstr "{{name}} deve conter apenas caracteres imprimíveis"
+
+#: gettext.php:589
+msgid "{{name}} must contain only printable characters and \"{{additionalChars}}\""
+msgstr "{{name}} deve conter apenas caracteres imprimíveis e \"{{additionalChars}}\""
+
+#: gettext.php:590
+msgid "{{name}} must not contain printable characters"
+msgstr "{{name}} não pode conter apenas caracteres imprimíveis"
+
+#: gettext.php:591
+msgid "{{name}} must not contain printable characters or \"{{additionalChars}}\""
+msgstr "{{name}} não pode conter apenas caracteres imprimíveis ou \"{{additionalChars}}\""
+
+#: gettext.php:592
+msgid "{{name}} must be a valid roman number"
+msgstr "{{name}} deve ser um número romano válido"
+
+#: gettext.php:593
+msgid "{{name}} must not be a valid roman number"
+msgstr "{{name}} não pode ser um número romano válido"
+
+#: gettext.php:594
+msgid "{{name}} must be an even number"
+msgstr "{{name}} deve ser um número par"
+
+#: gettext.php:595
+msgid "{{name}} must not be an even number"
+msgstr "{{name}} não pode ser um número par"
+
+#: gettext.php:596
+msgid "{{name}} is not considered as \"No\""
+msgstr "{{name}} não é considerado como um \"Não\""
+
+#: gettext.php:597
+msgid "{{name}} is considered as \"No\""
+msgstr "{{name}} é considerado como um \"Não\""
+
+#: gettext.php:598
+msgid "At least {{howMany}} of the {{failed}} required rules must pass for {{name}}"
+msgstr "Pelo menos {{howMany}} das {{failed}} regras necessárias devem passar para {{name}}"
+
+#: gettext.php:599
+msgid "At least {{howMany}} of the {{failed}} required rules must pass for {{name}}, only {{passed}} passed."
+msgstr "Pelo menos {{howMany}} das {{failed}} regras necessárias devem passar para {{name}}, e apenas {{passed}} passaram."
+
+#: gettext.php:600
+msgid "At least {{howMany}} of the {{failed}} required rules must not pass for {{name}}"
+msgstr "Pelo menos {{howMany}} das {{failed}} regras necessárias não podem passar para {{name}}"
+
+#: gettext.php:601
+msgid "At least {{howMany}} of the {{failed}} required rules must not pass for {{name}}, only {{passed}} passed."
+msgstr "Pelo menos {{howMany}} das {{failed}} regras necessárias não podem passar para {{name}}, apenas {{passed}} passaram."
+
+#: gettext.php:602
+msgid "{{name}} must be a finite number"
+msgstr "{{name}} deve ser um número finito"
+
+#: gettext.php:603
+msgid "{{name}} must not be a finite number"
+msgstr "{{name}} não pode ser um número finito"
+
+#: gettext.php:604
+msgid "{{name}} must be a float number"
+msgstr "{{name}} deve ser um número decimal"
+
+#: gettext.php:605
+msgid "{{name}} must not be a float number"
+msgstr "{{name}} não pode ser um número decimal"
+
+#: gettext.php:606
+msgid "{{name}} must be a valid country"
+msgstr "{{name}} deve ser um país válido"
+
+#: gettext.php:607
+msgid "{{name}} must not be a valid country"
+msgstr "{{name}} não pode ser um país válido"
+
+#: gettext.php:608
+msgid "{{name}} must be of the type integer"
+msgstr "{{name}} deve ser do tipo inteiro"
+
+#: gettext.php:609
+msgid "{{name}} must not be of the type integer"
+msgstr "{{name}} não pode ser do tipo inteiro"
+
+#: gettext.php:610
+msgid "{{name}} must be a valid currency"
+msgstr "{{name}} deve ser uma moeda válida"
+
+#: gettext.php:611
+msgid "{{name}} must not be a valid currency"
+msgstr "{{name}} não pode ser uma moeda válida"
+
+#: gettext.php:612
+msgid "{{name}} must be a directory"
+msgstr "{{name}} deve ser um diretório"
+
+#: gettext.php:613
+msgid "{{name}} must not be a directory"
+msgstr "{{name}} deve ser um diretório"
+
+#: gettext.php:614
+msgid "{{name}} must be {{type}}"
+msgstr "{{name}} deve ser {{type}}"
+
+#: gettext.php:615
+msgid "{{name}} must not be {{type}}"
+msgstr "{{name}} não pode ser {{type}}"
+
+#: gettext.php:616 gettext.php:617
+msgid "Data validation failed for %s"
+msgstr "Validação de dados falhou para %s"
+
+#: gettext.php:618
+msgid "{{name}} must be a valid prime number"
+msgstr "{{name}} deve ser um número primo válido"
+
+#: gettext.php:619
+msgid "{{name}} must not be a valid prime number"
+msgstr "{{name}} não pode ser um número primo válido"
+
+#: gettext.php:620 gettext.php:682
+msgid "The value must be optional"
+msgstr "O valor deve ser opcional"
+
+#: gettext.php:621 gettext.php:683
+msgid "{{name}} must be optional"
+msgstr "{{name}} deve ser opcional"
+
+#: gettext.php:622 gettext.php:680
+msgid "The value must not be optional"
+msgstr "O valor não pode ser opcional"
+
+#: gettext.php:623 gettext.php:681
+msgid "{{name}} must not be optional"
+msgstr "{{name}} não pode ser opcional"
+
+#: gettext.php:624 gettext.php:824
+msgid "Key {{name}} must be present"
+msgstr "A chave {{name}} deve estar presente"
+
+#: gettext.php:625
+msgid "{{baseKey}} must be valid to validate {{comparedKey}}"
+msgstr "{{baseKey}} deve ser válida para validar {{comparedKey}}"
+
+#: gettext.php:626 gettext.php:826
+msgid "Key {{name}} must not be present"
+msgstr "A chave {{name}} não pode estar presente"
+
+#: gettext.php:627
+msgid "{{baseKey}} must not be valid to validate {{comparedKey}}"
+msgstr "{{baseKey}} não pode ser válida para validar {{comparedKey}}"
+
+#: gettext.php:628
+msgid "{{name}} must be a BSN"
+msgstr "{{name}} deve ser um BSN"
+
+#: gettext.php:629
+msgid "{{name}} must not be a BSN"
+msgstr "{{name}} não pode ser um BSN"
+
+#: gettext.php:630
+msgid "{{name}} must be greater than {{interval}}"
+msgstr "{{name}} deve ser maior que {{interval}}"
+
+#: gettext.php:631
+msgid "{{name}} must be greater than or equal to {{interval}}"
+msgstr "{{name}} deve ser maior ou igual a {{interval}}"
+
+#: gettext.php:632
+msgid "{{name}} must not be greater than {{interval}}"
+msgstr "{{name}} não pode ser maior que {{interval}}"
+
+#: gettext.php:633
+msgid "{{name}} must not be greater than or equal to {{interval}}"
+msgstr "{{name}} não pode ser maior ou igual a {{interval}}"
+
+#: gettext.php:634
+msgid "{{name}} must be a valid IMEI"
+msgstr "{{name}} deve ser um IMEI válido"
+
+#: gettext.php:635
+msgid "{{name}} must not be a valid IMEI"
+msgstr "{{name}} não pode ser um IMEI válido"
+
+#: gettext.php:636
+msgid "{{name}} must be an odd number"
+msgstr "{{name}} deve ser um número ímpar"
+
+#: gettext.php:637
+msgid "{{name}} must not be an odd number"
+msgstr "{{name}} não pode ser um número ímpar"
+
+#: gettext.php:638
+msgid "{{name}} must be of the type float"
+msgstr "{{name}} deve ser do tipo decimal"
+
+#: gettext.php:639
+msgid "{{name}} must not be of the type float"
+msgstr "{{name}} não pode ser do tipo decimal"
+
+#: gettext.php:640
+msgid "{{name}} must be a boolean"
+msgstr "{{name}} deve ser um booleano"
+
+#: gettext.php:641
+msgid "{{name}} must not be a boolean"
+msgstr "{{name}} não pode ser um booleano"
+
+#: gettext.php:642
+msgid "{{name}} must contain only punctuation characters"
+msgstr "{{name}} deve ter apenas caracteres de pontuação"
+
+#: gettext.php:643
+msgid "{{name}} must contain only punctuation characters and \"{{additionalChars}}\""
+msgstr "{{name}} deve ter apenas caracteres de pontuação e \"{{additionalChars}}\""
+
+#: gettext.php:644
+msgid "{{name}} must not contain punctuation characters"
+msgstr "{{name}} não pode ter caracteres de pontuação"
+
+#: gettext.php:645
+msgid "{{name}} must not contain punctuation characters or \"{{additionalChars}}\""
+msgstr "{{name}} não pode conter caracteres de pontuação ou \"{{additionalChars}}\""
+
+#: gettext.php:646
+msgid "{{name}} must be between {{minAge}} and {{maxAge}} years ago"
+msgstr "{{name}} deve estar entre {{minAge}} e {{maxAge}} anos atrás"
+
+#: gettext.php:647
+msgid "{{name}} must be lower than {{minAge}} years ago"
+msgstr "{{name}} deve ser menor que {{minAge}} anos atrás"
+
+#: gettext.php:648
+msgid "{{name}} must be greater than {{maxAge}} years ago"
+msgstr "{{name}} deve ser maior que {{maxAge}} anos atrás"
+
+#: gettext.php:649
+msgid "{{name}} must not be between {{minAge}} and {{maxAge}} years ago"
+msgstr "{{name}} não pode estar entre {{minAge}} e {{maxAge}} anos atrás"
+
+#: gettext.php:650
+msgid "{{name}} must not be lower than {{minAge}} years ago"
+msgstr "{{name}} não pode ser menor que {{minAge}} anos atrás"
+
+#: gettext.php:651
+msgid "{{name}} must not be greater than {{maxAge}} years ago"
+msgstr "{{name}} não pode ser maior que {{maxAge}} anos atrás"
+
+#: gettext.php:652
+msgid "{{name}} must be equals {{compareTo}}"
+msgstr "{{name}} deve ser igual a {{compareTo}}"
+
+#: gettext.php:653
+msgid "{{name}} must not be equals {{compareTo}}"
+msgstr "{{name}} não pode ser igual a {{compareTo}}"
+
+#: gettext.php:654
+msgid "{{name}} must be writable"
+msgstr "{{name}} deve ser gravável"
+
+#: gettext.php:655
+msgid "{{name}} must not be writable"
+msgstr "{{name}} não pode ser gravável"
+
+#: gettext.php:656
+msgid "{{name}} must be of the type array"
+msgstr "{{name}} deve ter o tipo vetor"
+
+#: gettext.php:657
+msgid "{{name}} must not be of the type array"
+msgstr "{{name}} não pode ter o tipo vetor"
+
+#: gettext.php:658
+msgid "The age must be {{age}} years or more."
+msgstr "A idade deve ser de {{age}} anos ou mais."
+
+#: gettext.php:659
+msgid "The age must not be {{age}} years or more."
+msgstr "A idade não pode ser de {{age}} anos ou mais."
+
+#: gettext.php:660
+msgid "{{name}} must be a bank account"
+msgstr "{{name}} deve ser uma conta bancária"
+
+#: gettext.php:661
+msgid "{{name}} must not be a bank account"
+msgstr "{{name}} não pode ser uma conta bancária"
+
+#: gettext.php:662
+msgid "{{name}} must be a valid Identity Card number for {{countryCode}}"
+msgstr "{{name}} deve ser um número de identidade válido para {{countryCode}}"
+
+#: gettext.php:663
+msgid "{{name}} must not be a valid Identity Card number for {{countryCode}}"
+msgstr "{{name}} não pode ser um número de identidade válido para {{countryCode}}"
+
+#: gettext.php:664
+msgid "{{name}} must be a valid CNPJ number"
+msgstr "{{name}} deve ser um CNPJ válido"
+
+#: gettext.php:665
+msgid "{{name}} must not be a valid CNPJ number"
+msgstr "{{name}} não pode ser um CNPJ válido"
+
+#: gettext.php:666
+msgid "{{name}} must be iterable"
+msgstr "{{name}} deve ser iterável"
+
+#: gettext.php:667
+msgid "{{name}} must not be iterable"
+msgstr "{{name}} não pode ser iterável"
+
+#: gettext.php:668
+msgid "{{name}} must be a valid language"
+msgstr "{{name}} deve ser uma linguagem válida"
+
+#: gettext.php:669
+msgid "{{name}} must not be a valid language"
+msgstr "{{name}} não pode ser uma linguagem válida"
+
+#: gettext.php:670
+msgid "At least one of these rules must pass for {{name}}"
+msgstr "Pelo menos uma destas regras deve passar para {{name}}"
+
+#: gettext.php:671
+msgid "At least one of these rules must not pass for {{name}}"
+msgstr "Pelo menos uma destas regras não pode passar para {{name}}"
+
+#: gettext.php:673
+msgid "{{name}} is not valid"
+msgstr "{{name}} não é válido"
+
+#: gettext.php:675
+msgid "{{name}} is valid"
+msgstr "{{name}} é válido"
+
+#: gettext.php:676
+msgid "The value must not be empty"
+msgstr "O valor não pode ser vazio"
+
+#: gettext.php:677
+msgid "{{name}} must not be empty"
+msgstr "{{name}} não pode ser vazio"
+
+#: gettext.php:678
+msgid "The value must be empty"
+msgstr "O valor deve ser vazio"
+
+#: gettext.php:679
+msgid "{{name}} must be empty"
+msgstr "{{name}} deve ser vazio"
+
+#: gettext.php:684
+msgid "{{name}} must have a length between {{minValue}} and {{maxValue}}"
+msgstr "{{name}} deve ter um tamanho entre {{minValue}} e {{maxValue}}"
+
+#: gettext.php:685
+msgid "{{name}} must have a length greater than {{minValue}}"
+msgstr "{{name}} deve ter um tamanho maior que {{minValue}}"
+
+#: gettext.php:686
+msgid "{{name}} must have a length lower than {{maxValue}}"
+msgstr "{{name}} deve ter um tamanho menor que {{maxValue}}"
+
+#: gettext.php:687
+msgid "{{name}} must not have a length between {{minValue}} and {{maxValue}}"
+msgstr "{{name}} não pode ter um tamanho entre {{minValue}} e {{maxValue}}"
+
+#: gettext.php:688
+msgid "{{name}} must not have a length greater than {{minValue}}"
+msgstr "{{name}} não pode ter um tamanho maior que {{minValue}}"
+
+#: gettext.php:689
+msgid "{{name}} must not have a length lower than {{maxValue}}"
+msgstr "{{name}} não pode ter um tamanho menor que {{maxValue}}"
+
+#: gettext.php:690
+msgid "{{name}} is not considered as \"Yes\""
+msgstr "{{name}} não é considerado como um \"Sim\""
+
+#: gettext.php:691
+msgid "{{name}} is considered as \"Yes\""
+msgstr "{{name}} é considerado como um \"Sim\""
+
+#: gettext.php:692
+msgid "{{name}} contain only hexadecimal digits"
+msgstr "{{name}} conter apenas dígitos hexadecimais"
+
+#: gettext.php:693
+msgid "{{name}} contain only hexadecimal digits and \"{{additionalChars}}\""
+msgstr "{{name}} conter apenas dígitos hexadecimais e \"{{additionalChars}}\""
+
+#: gettext.php:694
+msgid "{{name}} must not contain hexadecimal digits"
+msgstr "{{name}} não pode ter dígitos hexadecimais"
+
+#: gettext.php:695
+msgid "{{name}} must not contain hexadecimal digits or \"{{additionalChars}}\""
+msgstr "{{name}} não pode ter dígitos hexadecimais ou \"{{additionalChars}}\""
+
+#: gettext.php:696
+msgid "{{name}} must be an infinite number"
+msgstr "{{name}} deve ser um número infinito"
+
+#: gettext.php:697
+msgid "{{name}} must not be an infinite number"
+msgstr "{{name}} não pode ser um número infinito"
+
+#: gettext.php:698 gettext.php:699
+msgid "Data validation failed for {{name}}"
+msgstr "Validação de dados falhou para {{name}}"
+
+#: gettext.php:700
+msgid "{{name}} must be less than {{interval}}"
+msgstr "{{name}} deve ser menor que {{interval}}"
+
+#: gettext.php:701
+msgid "{{name}} must be less than or equal to {{interval}}"
+msgstr "{{name}} deve ser menor ou igual a {{interval}}"
+
+#: gettext.php:702
+msgid "{{name}} must not be less than {{interval}}"
+msgstr "{{name}} não pode ser menor que {{interval}}"
+
+#: gettext.php:703
+msgid "{{name}} must not be less than or equal to {{interval}}"
+msgstr "{{name}} não pode ser menor ou igual a {{interval}}"
+
+#: gettext.php:704
+msgid "{{name}} must exists"
+msgstr "{{name}} deve existir"
+
+#: gettext.php:705
+msgid "{{name}} must not exists"
+msgstr "{{name}} não pode existir"
+
+#: gettext.php:706
+msgid "{{name}} must be multiple of {{multipleOf}}"
+msgstr "{{name}} deve ser múltiplo de {{multipleOf}}"
+
+#: gettext.php:707
+msgid "{{name}} must not be multiple of {{multipleOf}}"
+msgstr "{{name}} não pode ser múltiplo de {{multipleOf}}"
+
+#: gettext.php:708
+msgid "{{name}} must be uppercase"
+msgstr "{{name}} deve estar em caixa alta"
+
+#: gettext.php:709
+msgid "{{name}} must not be uppercase"
+msgstr "{{name}} não pode estar em caixa alta"
+
+#: gettext.php:710
+msgid "{{name}} must be a valid date"
+msgstr "{{name}} deve ser uma data válida"
+
+#: gettext.php:711
+msgid "{{name}} must be a valid date. Sample format: {{format}}"
+msgstr "{{name}} deve ser uma data válida. Formato de exemplo: {{format}}"
+
+#: gettext.php:712
+msgid "{{name}} must not be a valid date"
+msgstr "{{name}} não pode ser uma data válida"
+
+#: gettext.php:713
+msgid "{{name}} must not be a valid date in the format {{format}}"
+msgstr "{{name}} não pode ser uma data válida no formato {{format}}"
+
+#: gettext.php:714
+msgid "{{name}} must be a german BIC"
+msgstr "{{name}} deve ser um BIC alemão"
+
+#: gettext.php:715
+msgid "{{name}} must not be a german BIC"
+msgstr "{{name}} não pode ser um BIC alemão"
+
+#: gettext.php:716
+msgid "{{name}} must be a german bank"
+msgstr "{{name}} deve ser um banco alemão"
+
+#: gettext.php:717
+msgid "{{name}} must not be a german bank"
+msgstr "{{name}} não pode ser um banco alemão"
+
+#: gettext.php:718
+msgid "{{name}} must be a valid Polish Identity Card number"
+msgstr "{{name}} deve ser um cartão de identificação polandês válido"
+
+#: gettext.php:719
+msgid "{{name}} must not be a valid Polish Identity Card number"
+msgstr "{{name}} não pode ser um cartão de identificação polandês válido"
+
+#: gettext.php:720
+msgid "{{name}} must be a german bank account"
+msgstr "{{name}} deve ser uma conta bancária alemã"
+
+#: gettext.php:721
+msgid "{{name}} must not be a german bank account"
+msgstr "{{name}} não pode ser uma conta bancária alemã"
+
+#: gettext.php:722
+msgid "{{name}} must be a valid slug"
+msgstr "{{name}} deve ser uma slug válida"
+
+#: gettext.php:723
+msgid "{{name}} must not be a valid slug"
+msgstr "{{name}} não pode ser uma slug válida"
+
+#: gettext.php:724
+msgid "{{name}} must be a valid domain"
+msgstr "{{name}} deve ser um domínio válido"
+
+#: gettext.php:725
+msgid "{{name}} must not be a valid domain"
+msgstr "{{name}} não pode ser um domínio válido"
+
+#: gettext.php:726
+msgid "{{name}} is not considered as \"False\""
+msgstr "{{name}} não é considerado como \"Falso\""
+
+#: gettext.php:727
+msgid "{{name}} is considered as \"False\""
+msgstr "{{name}} é considerado como \"Falso\""
+
+#: gettext.php:728 gettext.php:729 gettext.php:810 gettext.php:811
+msgid "{{name}}"
+msgstr "{{name}}"
+
+#: gettext.php:730
+msgid "{{name}} must be between {{minSize}} and {{maxSize}}"
+msgstr "{{name}} deve ser entre {{minSize}} e {{maxSize}}"
+
+#: gettext.php:731
+msgid "{{name}} must be greater than {{minSize}}"
+msgstr "{{name}} deve ser maior que {{minSize}}"
+
+#: gettext.php:732
+msgid "{{name}} must be lower than {{maxSize}}"
+msgstr "{{name}} deve ser menor que {{maxSize}}"
+
+#: gettext.php:733
+msgid "{{name}} must not be between {{minSize}} and {{maxSize}}"
+msgstr "{{name}} não pode ser entre {{minSize}} e {{maxSize}}"
+
+#: gettext.php:734
+msgid "{{name}} must not be greater than {{minSize}}"
+msgstr "{{name}} não pode ser maior que {{minSize}}"
+
+#: gettext.php:735
+msgid "{{name}} must not be lower than {{maxSize}}"
+msgstr "{{name}} não pode ser menor que {{maxSize}}"
+
+#: gettext.php:736
+msgid "{{name}} must be positive"
+msgstr "{{name}} deve ser positivo"
+
+#: gettext.php:737
+msgid "{{name}} must not be positive"
+msgstr "{{name}} não pode ser positivo"
+
+#: gettext.php:740
+msgid "{{name}} must be a resource"
+msgstr "{{name}} deve ser um resource"
+
+#: gettext.php:741
+msgid "{{name}} must not be a resource"
+msgstr "{{name}} não pode ser um resource"
+
+#: gettext.php:742
+msgid "{{name}} must be a valid CPF number"
+msgstr "{{name}} deve ser um CPF válido"
+
+#: gettext.php:743
+msgid "{{name}} must not be a valid CPF number"
+msgstr "{{name}} não pode ser um CPF válido"
+
+#: gettext.php:744
+msgid "{{name}} must be a valid Fibonacci number"
+msgstr "{{name}} deve ser um número de Fibonacci válido"
+
+#: gettext.php:745
+msgid "{{name}} must not be a valid Fibonacci number"
+msgstr "{{name}} não pode ser um número de Fibonacci válido"
+
+#: gettext.php:746
+msgid "{{name}} must be a bank"
+msgstr "{{name}} deve ser a bum banco"
+
+#: gettext.php:747
+msgid "{{name}} must not be a bank"
+msgstr "{{name}} não pode ser um banco"
+
+#: gettext.php:748
+msgid "{{name}} must start with ({{startValue}})"
+msgstr "{{name}} deve começar com ({{startValue}})"
+
+#: gettext.php:749
+msgid "{{name}} must not start with ({{startValue}})"
+msgstr "{{name}} não pode começar com ({{startValue}})"
+
+#: gettext.php:751
+msgid "All of these rules must pass for {{name}}"
+msgstr "Todas estas regras devem passar para {{name}}"
+
+#: gettext.php:752
+msgid "{{name}} must be between {{minValue}} and {{maxValue}}"
+msgstr "{{name}} deve estar entre {{minValue}} e {{maxValue}}"
+
+#: gettext.php:753
+msgid "{{name}}  must be greater than {{minValue}}"
+msgstr "{{name}}  deve ser maior que {{minValue}}"
+
+#: gettext.php:754
+msgid "{{name}} must be lower than {{maxValue}}"
+msgstr "{{name}} deve ser menor que {{maxValue}}"
+
+#: gettext.php:755
+msgid "{{name}} must not be between {{minValue}} and {{maxValue}}"
+msgstr "{{name}} não pode ser entre {{minValue}} e {{maxValue}}"
+
+#: gettext.php:756
+msgid "{{name}}  must not be greater than {{minValue}}"
+msgstr "{{name}}  não pode ser maior que {{minValue}}"
+
+#: gettext.php:757
+msgid "{{name}} must not be lower than {{maxValue}}"
+msgstr "{{name}} não pode ser menor que {{maxValue}}"
+
+#: gettext.php:758
+msgid "{{name}} must contain the value \"{{containsValue}}\""
+msgstr "{{name}} deve ter o valor \"{{containsValue}}\""
+
+#: gettext.php:759
+msgid "{{name}} must not contain the value \"{{containsValue}}\""
+msgstr "{{name}} não pode ter o valor \"{{containsValue}}\""
+
+#: gettext.php:760
+msgid "{{name}} must be in {{haystack}}"
+msgstr "{{name}} deve estar em {{haystack}}"
+
+#: gettext.php:761
+msgid "{{name}} must not be in {{haystack}}"
+msgstr "{{name}} não pode estar em {{haystack}}"
+
+#: gettext.php:762
+msgid "{{name}} must be a valid PHP label"
+msgstr "{{name}} deve ser uma label PHP válida"
+
+#: gettext.php:763
+msgid "{{name}} must not be a valid PHP label"
+msgstr "{{name}} não pode ser uma label PHP válida"
+
+#: gettext.php:764
+msgid "{{name}} must be a valid video URL"
+msgstr "{{name}} deve ser uma URL de vídeo válida"
+
+#: gettext.php:765
+msgid "{{name}} must be a valid {{service}} video URL"
+msgstr "{{name}} deve ser uma URL de vídeo do {{service}} válida"
+
+#: gettext.php:766
+msgid "{{name}} must not be a valid video URL"
+msgstr "{{name}} não pode ser uma URL de vídeo válida"
+
+#: gettext.php:767
+msgid "{{name}} must not be a valid {{service}} video URL"
+msgstr "{{name}} não pode ser uma URL de vídeo do {{service}} válida"
+
+#: gettext.php:768
+msgid "{{name}} must be an integer number"
+msgstr "{{name}} deve ser um número inteiro"
+
+#: gettext.php:769
+msgid "{{name}} must not be an integer number"
+msgstr "{{name}} não pode ser um número inteiro"
+
+#: gettext.php:770
+msgid "{{name}} must be a file"
+msgstr "{{name}} deve ser um arquivo"
+
+#: gettext.php:771
+msgid "{{name}} must not be a file"
+msgstr "{{name}} não pode ser um arquivo"
+
+#: gettext.php:772
+msgid "{{name}} must contain only control characters"
+msgstr "{{name}} deve ter apenas caracteres de controle"
+
+#: gettext.php:773
+msgid "{{name}} must contain only control characters and \"{{additionalChars}}\""
+msgstr "{{name}} deve ter apenas caracteres de controle e \"{{additionalChars}}\""
+
+#: gettext.php:774
+msgid "{{name}} must not contain control characters"
+msgstr "{{name}} não pode ter caracteres de controle"
+
+#: gettext.php:775
+msgid "{{name}} must not contain control characters or \"{{additionalChars}}\""
+msgstr "{{name}} não pode ter caracteres de controle ou \"{{additionalChars}}\""
+
+#: gettext.php:776
+msgid "{{name}} must not contain whitespace"
+msgstr "{{name}} não pode ter espaços em branco"
+
+#: gettext.php:777
+msgid "{{name}} must not not contain whitespace"
+msgstr "{{name}} deve ter espaços em branco"
+
+#: gettext.php:778
+msgid "{{name}} must be a version"
+msgstr "{{name}} deve ser uma versão"
+
+#: gettext.php:779
+msgid "{{name}} must not be a version"
+msgstr "{{name}} não pode ser uma versão"
+
+#: gettext.php:780
+msgid "{{name}} must be a symbolic link"
+msgstr "{{name}} deve ser um link simbólico"
+
+#: gettext.php:781
+msgid "{{name}} must not be a symbolic link"
+msgstr "{{name}} não pode ser um link simbólico"
+
+#: gettext.php:782
+msgid "{{name}} must end with ({{endValue}})"
+msgstr "{{name}} deve terminar com ({{endValue}})"
+
+#: gettext.php:783
+msgid "{{name}} must not end with ({{endValue}})"
+msgstr "{{name}} não pode terminar com ({{endValue}})"
+
+#: gettext.php:784
+msgid "{{name}} is not considered as \"True\""
+msgstr "{{name}} não é considerado como \"Verdadeiro\""
+
+#: gettext.php:785
+msgid "{{name}} is considered as \"True\""
+msgstr "{{name}} é considerado como \"Verdadeiro\""
+
+#: gettext.php:786
+msgid "{{name}} must be readable"
+msgstr "{{name}} deve ser legível"
+
+#: gettext.php:787
+msgid "{{name}} must not be readable"
+msgstr "{{name}} não pode ser legível"
+
+#: gettext.php:788
+msgid "{{name}} must contain only letters (a-z) and digits (0-9)"
+msgstr "{{name}} deve ter apenas letras (a-z) e dígitos (0-9)"
+
+#: gettext.php:789
+msgid "{{name}} must contain only letters (a-z), digits (0-9) and {{additionalChars}}"
+msgstr "{{name}} deve ter apenas letras (a-z), dígitos (0-9) e {{additionalChars}}"
+
+#: gettext.php:790
+msgid "{{name}} must not contain letters (a-z) or digits (0-9)"
+msgstr "{{name}} não pode ter letras (a-z) ou dígitos (0-9)"
+
+#: gettext.php:791
+msgid "{{name}} must not contain letters (a-z), digits (0-9) or {{additionalChars}}"
+msgstr "{{name}} não pode ter letras (a-z), dígitos (0-9) ou {{additionalChars}}"
+
+#: gettext.php:792
+msgid "{{name}} must contain only letters (a-z)"
+msgstr "{{name}} deve ter apenas letras (a-z)"
+
+#: gettext.php:793
+msgid "{{name}} must contain only letters (a-z) and \"{{additionalChars}}\""
+msgstr "{{name}} deve ter apenas letras (a-z) e \"{{additionalChars}}\""
+
+#: gettext.php:794
+msgid "{{name}} must not contain letters (a-z)"
+msgstr "{{name}} não pode ter letras (a-z)"
+
+#: gettext.php:795
+msgid "{{name}} must not contain letters (a-z) or \"{{additionalChars}}\""
+msgstr "{{name}} não pode ter letras (a-z) ou \"{{additionalChars}}\""
+
+#: gettext.php:796
+msgid "{{name}} must be a valid subdivision code for {{countryCode}}"
+msgstr "{{name}} deve ser um código de subdivisão válido do(a) {{countryCode}}"
+
+#: gettext.php:797
+msgid "{{name}} must not be a valid subdivision code for {{countryCode}}"
+msgstr "{{name}} não pode ser ser um código de subdivisão válido do(a) {{countryCode}}"
+
+#: gettext.php:798
+msgid "Attribute {{name}} must be present"
+msgstr "O atributo {{name}} deve estar presente"
+
+#: gettext.php:799
+msgid "Attribute {{name}} must be valid"
+msgstr "O atributo {{name}} deve ser válido"
+
+#: gettext.php:800
+msgid "Attribute {{name}} must not be present"
+msgstr "O atributo {{name}} não pode estar presente"
+
+#: gettext.php:801
+msgid "Attribute {{name}} must not validate"
+msgstr "O atributo {{name}} não pode ser válido"
+
+#: gettext.php:802
+msgid "{{name}} must be numeric"
+msgstr "{{name}} deve ser numérico"
+
+#: gettext.php:803
+msgid "{{name}} must not be numeric"
+msgstr "{{name}} não pode ser numérico"
+
+#: gettext.php:804
+msgid "{{name}} must be a valid telephone number"
+msgstr "{{name}} deve ser um número de telefone válido"
+
+#: gettext.php:805
+msgid "{{name}} must not be a valid telephone number"
+msgstr "{{name}} não pode ser um número de telefone válido"
+
+#: gettext.php:806
+msgid "{{name}} must contain only space characters"
+msgstr "{{name}} deve ter apenas caracteres de espaço"
+
+#: gettext.php:807
+msgid "{{name}} must contain only space characters and \"{{additionalChars}}\""
+msgstr "{{name}} deve ter apenas caracteres de espaço e \"{{additionalChars}}\""
+
+#: gettext.php:808
+msgid "{{name}} must not contain space characters"
+msgstr "{{name}} não pode ter caracteres de espaço"
+
+#: gettext.php:809
+msgid "{{name}} must not contain space characters or \"{{additionalChars}}\""
+msgstr "{{name}} não pode ter caracteres de espaço ou \"{{additionalChars}}\""
+
+#: gettext.php:812
+msgid "{{name}} must be a hex RGB color"
+msgstr "{{name}} deve ser uma cor RGB em hexadecimal"
+
+#: gettext.php:813
+msgid "{{name}} must not be a hex RGB color"
+msgstr "{{name}} não pode ser uma cor RGB em hexadecimal"
+
+#: gettext.php:814
+msgid "{{name}} must be a URL"
+msgstr "{{name}} deve ser uma URL"
+
+#: gettext.php:815
+msgid "{{name}} must not be a URL"
+msgstr "{{name}} não pode ser uma URL"
+
+#: gettext.php:816
+msgid "{{name}} must be a callable"
+msgstr "{{name}} deve ser uma callable"
+
+#: gettext.php:817
+msgid "{{name}} must not be a callable"
+msgstr "{{name}} não pode ser uma callable"
+
+#: gettext.php:818
+msgid "{{name}} must contain only vowels"
+msgstr "{{name}} deve ter apenas vogais"
+
+#: gettext.php:819
+msgid "{{name}} must contain only vowels and \"{{additionalChars}}\""
+msgstr "{{name}} deve ter apenas vogais e \"{{additionalChars}}\""
+
+#: gettext.php:820
+msgid "{{name}} must not contain vowels"
+msgstr "{{name}} não pode ter vogais"
+
+#: gettext.php:821
+msgid "{{name}} must not contain vowels or \"{{additionalChars}}\""
+msgstr "{{name}} não pode ter vogais ou \"{{additionalChars}}\""
+
+#: gettext.php:822
+msgid "{{name}} must have {{extension}} extension"
+msgstr "{{name}} deve ter a extensão {{extension}}"
+
+#: gettext.php:823
+msgid "{{name}} must not have {{extension}} extension"
+msgstr "{{name}} não pode ter a extensão {{extension}}"
+
+#: gettext.php:825
+msgid "Key {{name}} must be valid"
+msgstr "A chave {{name}} deve ser válido"
+
+#: gettext.php:827
+msgid "Key {{name}} must not be valid"
+msgstr "A chave {{name}} não pode ser válido"
+
+#: gettext.php:828
+msgid "{{name}} must contain only graphical characters"
+msgstr "{{name}} deve ter apenas caracteres gráficos"
+
+#: gettext.php:829
+msgid "{{name}} must contain only graphical characters and \"{{additionalChars}}\""
+msgstr "{{name}} deve ter apenas caracteres gráficos e \"{{additionalChars}}\""
+
+#: gettext.php:830
+msgid "{{name}} must not contain graphical characters"
+msgstr "{{name}} não pode ter caracteres gráficos"
+
+#: gettext.php:831
+msgid "{{name}} must not contain graphical characters or \"{{additionalChars}}\""
+msgstr "{{name}} não pode ter caracteres gráficos ou \"{{additionalChars}}\""
+
+#: gettext.php:834
+msgid "Must have keys {{keys}}"
+msgstr "Deve ter as chaves {{keys}}"
+
+#: gettext.php:837
+msgid "Must not have keys {{keys}}"
+msgstr "Não pode ter as chaves {{keys}}"
+
+#: gettext.php:838
+msgid "{{name}} must be countable"
+msgstr "{{name}} deve ser countable"
+
+#: gettext.php:839
+msgid "{{name}} must not be countable"
+msgstr "{{name}} não pode ser countable"
+
+#: gettext.php:840
+msgid "No items were found for key chain {{name}}"
+msgstr "Nenhum item foi encontrado para a cadeia de chaves {{name}}"
+
+#: gettext.php:841
+msgid "Key chain {{name}} is not valid"
+msgstr "A cadeia de chaves {{name}} não é válida"
+
+#: gettext.php:842
+msgid "Items for key chain {{name}} must not be present"
+msgstr "Itens para a cadeia de chaves {{name}} não podem estar presentes"
+
+#: gettext.php:843
+msgid "Key chain {{name}} must not be valid"
+msgstr "A cadeia de chaves {{name}} não pode ser válida"
+
+#: gettext.php:844
+msgid "{{name}} must be a boolean value"
+msgstr "{{name}} deve ser um valor booleano"
+
+#: gettext.php:845
+msgid "{{name}} must not be a boolean value"
+msgstr "{{name}} não pode ser um valor booleano"
+
+#: gettext.php:846
+msgid "{{name}} must be a valid mac address"
+msgstr "{{name}} deve ser um endereço MAC válido"
+
+#: gettext.php:847
+msgid "{{name}} must not be a valid mac address"
+msgstr "{{name}} não pode ser um endereço MAC válido"
+
+#: gettext.php:848
+msgid "{{name}} must be a valid image"
+msgstr "{{name}} deve ser uma imagem válida"
+
+#: gettext.php:849
+msgid "{{name}} must not be a valid image"
+msgstr "{{name}} não pode ser uma imagem válida"

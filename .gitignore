@@ -1,5 +1,5 @@
 composer.lock
-pot/fr.pot
+pot/*
 vendor
 Exceptions
 gettext.php
